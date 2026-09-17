@@ -1,0 +1,21 @@
+name: lalms-moss
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - ffmpeg
+  - pip:
+      - torch==2.9.1
+      - torchaudio==2.9.1
+      - transformers==4.57.1
+      - accelerate
+      - git+https://github.com/OpenMOSS/MOSS-Audio.git
+      - numpy>=2.0
+      - soundfile>=0.12.0
+      - scipy>=1.12.0
+      - tqdm>=4.60.0
+      - pandas
+      - scikit-learn
+      - matplotlib
+      - pytest

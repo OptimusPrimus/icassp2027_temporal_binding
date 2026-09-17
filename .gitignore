@@ -1,0 +1,14 @@
+/tasks/esc50/
+/experiments/experiment_41_ordering_intervention/outputs/
+__pycache__/
+/dataset/ESC50/ESC-50-master/
+/dataset/backgrounds/freesound_ambience/bathroom_laundry/
+/dataset/backgrounds/freesound_ambience/forest_woodland/
+/dataset/backgrounds/freesound_ambience/home_living_bedroom/
+/dataset/backgrounds/freesound_ambience/kitchen_dining/
+/dataset/backgrounds/freesound_ambience/office_public_interior/
+/dataset/backgrounds/freesound_ambience/park_garden/
+/dataset/backgrounds/freesound_ambience/rural_farm/
+/dataset/backgrounds/freesound_ambience/transport_industrial/
+/dataset/backgrounds/freesound_ambience/urban_suburban_outdoors/
+/dataset/backgrounds/freesound_ambience/waterside_coastal/

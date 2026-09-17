@@ -1,0 +1,22 @@
+name: lalms-qwen3
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - ffmpeg
+  - pip:
+      - torch
+      - torchaudio
+      - torchvision
+      - git+https://github.com/huggingface/transformers
+      - accelerate
+      - qwen-omni-utils
+      - numpy>=2.0
+      - soundfile>=0.12.0
+      - scipy>=1.12.0
+      - tqdm>=4.60.0
+      - pandas
+      - scikit-learn
+      - matplotlib
+      - pytest

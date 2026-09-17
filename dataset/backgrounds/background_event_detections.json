@@ -1,0 +1,2599 @@
+{
+  "bathroom_laundry/197147_bathroom_ambience_.wav.wav": {
+    "audioset": {
+      "Rumble": 0.6225947141647339
+    },
+    "esc50": {}
+  },
+  "bathroom_laundry/367149_Shower_ambience.wav.wav": {
+    "audioset": {
+      "Pink noise": 0.416392058134079,
+      "White noise": 0.27942582964897156
+    },
+    "esc50": {}
+  },
+  "bathroom_laundry/372566_Ambience_Bathroom_Boiler.wav": {
+    "audioset": {
+      "Silence": 0.5360260009765625
+    },
+    "esc50": {}
+  },
+  "bathroom_laundry/383411_MS_Bathroom_tsaritsyno_roomtone.WAV.wav": {
+    "audioset": {
+      "Speech": 0.946992814540863,
+      "Cupboard open or close": 0.48000743985176086,
+      "Silence": 0.42750129103660583,
+      "Drip": 0.3696315288543701,
+      "Door": 0.34206461906433105
+    },
+    "esc50": {
+      "door_wood_creaks": 0.34206461906433105,
+      "door_wood_knock": 0.34206461906433105,
+      "water_drops": 0.3696315288543701
+    }
+  },
+  "bathroom_laundry/383789_Mens_Outdoor_Bathroom_Ambience.wav": {
+    "audioset": {
+      "Speech": 0.8815608024597168,
+      "Fill (with liquid)": 0.729885458946228,
+      "Vehicle": 0.4705822765827179,
+      "Cupboard open or close": 0.4086969494819641,
+      "Aircraft": 0.3840649425983429,
+      "Field recording": 0.3098751902580261,
+      "Water": 0.3036803901195526,
+      "Fixed-wing aircraft, airplane": 0.28158465027809143
+    },
+    "esc50": {
+      "airplane": 0.3840649425983429,
+      "pouring_water": 0.3036803901195526
+    }
+  },
+  "bathroom_laundry/404373_Empty_girls_bathroom_Arcade_Empire.wav": {
+    "audioset": {
+      "Silence": 0.5584619641304016
+    },
+    "esc50": {}
+  },
+  "bathroom_laundry/443053_Shower_Ambience.WAV.wav": {
+    "audioset": {
+      "Silence": 0.7415605187416077
+    },
+    "esc50": {}
+  },
+  "bathroom_laundry/488749_bathroom_room_tone_with_vent_D100_ORTF.wav.wav": {
+    "audioset": {
+      "Hum": 0.39992058277130127
+    },
+    "esc50": {}
+  },
+  "bathroom_laundry/492968_public_bathroom_ambience_.wav.wav": {
+    "audioset": {
+      "Speech": 0.7796828150749207,
+      "Silence": 0.36355483531951904
+    },
+    "esc50": {}
+  },
+  "bathroom_laundry/505243_A_int_meluzina_v_koupelne_wind.aiff.aiff": {
+    "audioset": {
+      "Snort": 0.8049982190132141,
+      "Stomach rumble": 0.4582132399082184,
+      "Tick-tock": 0.44722622632980347,
+      "Tick": 0.40727314352989197,
+      "Breathing": 0.3492785096168518,
+      "Silence": 0.34141483902931213
+    },
+    "esc50": {
+      "breathing": 0.3492785096168518,
+      "clock_tick": 0.44722622632980347
+    }
+  },
+  "bathroom_laundry/594243_Bathroom_Ambience.wav.wav": {
+    "audioset": {
+      "Bathtub (filling or washing)": 0.7509257197380066,
+      "Water": 0.260694682598114
+    },
+    "esc50": {
+      "pouring_water": 0.260694682598114
+    }
+  },
+  "bathroom_laundry/655425_Bathroom_Ambience.wav.wav": {
+    "audioset": {
+      "Silence": 0.8342681527137756,
+      "Environmental noise": 0.3156034052371979,
+      "Clicking": 0.2505442500114441
+    },
+    "esc50": {
+      "mouse_click": 0.2505442500114441
+    }
+  },
+  "bathroom_laundry/707550_Outside_Bathroom_ambience.wav.wav": {
+    "audioset": {
+      "Environmental noise": 0.5805732011795044,
+      "Silence": 0.3599463701248169,
+      "Bird": 0.35716474056243896,
+      "Bird vocalization, bird call, bird song": 0.3447914123535156,
+      "Chirp, tweet": 0.26331380009651184
+    },
+    "esc50": {
+      "chirping_birds": 0.35716474056243896
+    }
+  },
+  "bathroom_laundry/708055_Bathroom_Amb.wav": {
+    "audioset": {
+      "Clicking": 0.6399658918380737,
+      "Silence": 0.55074143409729,
+      "Speech": 0.37003257870674133,
+      "Whispering": 0.26247045397758484
+    },
+    "esc50": {
+      "mouse_click": 0.6399658918380737
+    }
+  },
+  "bathroom_laundry/756275_240817_2817_FR_Campsite_shared_bathroom_atmosphere.wav": {
+    "audioset": {
+      "Cupboard open or close": 0.818512499332428,
+      "Speech": 0.6953517198562622,
+      "Owl": 0.6739047169685364,
+      "Drawer open or close": 0.6244381070137024,
+      "Snort": 0.4888755679130554,
+      "Arrow": 0.41968515515327454,
+      "Water tap, faucet": 0.38335567712783813,
+      "Sink (filling or washing)": 0.3295851945877075,
+      "Ping": 0.3252731263637543,
+      "Shuffle": 0.3118060827255249,
+      "Water": 0.28446415066719055,
+      "Door": 0.27584147453308105,
+      "Sigh": 0.25905442237854004
+    },
+    "esc50": {
+      "door_wood_creaks": 0.27584147453308105,
+      "door_wood_knock": 0.27584147453308105,
+      "pouring_water": 0.38335567712783813
+    }
+  },
+  "bathroom_laundry/764595_Bathroom_Tone.wav": {
+    "audioset": {
+      "Silence": 0.7633380889892578,
+      "Speech": 0.43051496148109436,
+      "Environmental noise": 0.4108770191669464,
+      "Snort": 0.3986789882183075,
+      "Bird": 0.3671075701713562,
+      "Music": 0.25970491766929626
+    },
+    "esc50": {
+      "chirping_birds": 0.3671075701713562
+    }
+  },
+  "bathroom_laundry/767306_AMBRoom-Int_Public_Bathroom_Ambience_HvD_OwSFX_Loop.wav": {
+    "audioset": {
+      "Water tap, faucet": 0.5215566754341125,
+      "Drawer open or close": 0.5112002491950989,
+      "Water": 0.5005136728286743,
+      "Sink (filling or washing)": 0.46406233310699463,
+      "Silence": 0.25470206141471863
+    },
+    "esc50": {
+      "pouring_water": 0.5215566754341125
+    }
+  },
+  "bathroom_laundry/84946_Bathroom.aif.aiff": {
+    "audioset": {
+      "Silence": 0.3019120991230011
+    },
+    "esc50": {}
+  },
+  "forest_woodland/201898_Windy_Forest_without_windscreen_01.mp3.mp3": {
+    "audioset": {
+      "Rustling leaves": 0.3493705093860626
+    },
+    "esc50": {}
+  },
+  "forest_woodland/28646_Forest_Ambience_Danish.wav.wav": {
+    "audioset": {
+      "Environmental noise": 0.735822319984436,
+      "Bird vocalization, bird call, bird song": 0.6797805428504944,
+      "Bird": 0.5139216780662537,
+      "Chirp, tweet": 0.4890468120574951,
+      "Turkey": 0.27781644463539124
+    },
+    "esc50": {
+      "chirping_birds": 0.6797805428504944
+    }
+  },
+  "forest_woodland/319043_Forest_Trudge.wav.wav": {
+    "audioset": {
+      "Walk, footsteps": 0.7593832015991211,
+      "Speech": 0.7184682488441467,
+      "Animal": 0.6989659070968628,
+      "Bird vocalization, bird call, bird song": 0.678375780582428,
+      "Chirp, tweet": 0.658889889717102,
+      "Bird": 0.6545115113258362,
+      "Environmental noise": 0.5925107598304749,
+      "Arrow": 0.5395925045013428,
+      "Outside, rural or natural": 0.34931352734565735,
+      "Mouse": 0.3306860029697418,
+      "Crow": 0.2696473002433777,
+      "Cat": 0.25086209177970886
+    },
+    "esc50": {
+      "cat": 0.25086209177970886,
+      "chirping_birds": 0.678375780582428,
+      "crow": 0.2696473002433777,
+      "footsteps": 0.7593832015991211,
+      "mouse_click": 0.3306860029697418
+    }
+  },
+  "forest_woodland/319446_ambience_forest_austria_w4tel_thunder_light_rain.wav.wav": {
+    "audioset": {
+      "Thunder": 0.8954145312309265,
+      "Thunderstorm": 0.847773551940918,
+      "Rain": 0.8152173757553101,
+      "Raindrop": 0.4934522211551666,
+      "Rain on surface": 0.43364399671554565
+    },
+    "esc50": {
+      "rain": 0.8152173757553101,
+      "sea_waves": 0.43364399671554565,
+      "thunderstorm": 0.8954145312309265
+    }
+  },
+  "forest_woodland/429137_nixeno_-_forest_and_waterfall_ambience.mp3.mp3": {
+    "audioset": {
+      "Speech": 0.7421243190765381,
+      "Water": 0.5983096957206726,
+      "Rain": 0.5022916197776794,
+      "Chink, clink": 0.4586591422557831,
+      "Pink noise": 0.4559575617313385,
+      "Thunderstorm": 0.4049120247364044,
+      "Thunder": 0.39714616537094116,
+      "Environmental noise": 0.34784746170043945,
+      "Rain on surface": 0.3048763573169708,
+      "Outside, rural or natural": 0.2908751964569092
+    },
+    "esc50": {
+      "pouring_water": 0.5983096957206726,
+      "rain": 0.5022916197776794,
+      "sea_waves": 0.3048763573169708,
+      "thunderstorm": 0.4049120247364044
+    }
+  },
+  "forest_woodland/447815_walking_ambience_forest_autumn_crunchy_step_walking_leafes.wav.wav": {
+    "audioset": {
+      "Rain": 0.7743871212005615,
+      "Walk, footsteps": 0.6706725358963013,
+      "Rain on surface": 0.5491541028022766,
+      "Crunch": 0.4912261366844177,
+      "Thunder": 0.3727664649486542,
+      "Pink noise": 0.3725922703742981,
+      "Rustle": 0.3475936949253082,
+      "Raindrop": 0.34096434712409973,
+      "Thunderstorm": 0.31646832823753357,
+      "Rustling leaves": 0.30239322781562805
+    },
+    "esc50": {
+      "footsteps": 0.6706725358963013,
+      "rain": 0.7743871212005615,
+      "sea_waves": 0.5491541028022766,
+      "thunderstorm": 0.3727664649486542
+    }
+  },
+  "forest_woodland/493720_ambience_spooky_forest.mp3.mp3": {
+    "audioset": {
+      "Cricket": 0.4567139148712158,
+      "Insect": 0.45129507780075073,
+      "Environmental noise": 0.40609413385391235,
+      "Turkey": 0.39380964636802673,
+      "Owl": 0.36602258682250977,
+      "Bird vocalization, bird call, bird song": 0.33930879831314087,
+      "Frog": 0.28558802604675293,
+      "Gobble": 0.2742882966995239,
+      "Chirp, tweet": 0.2526860237121582,
+      "Bird": 0.2517555356025696
+    },
+    "esc50": {
+      "chirping_birds": 0.33930879831314087,
+      "crickets": 0.4567139148712158,
+      "frog": 0.28558802604675293,
+      "insects": 0.45129507780075073
+    }
+  },
+  "forest_woodland/547923_Clark_s_Tower_Ambience_1_RX.wav.wav": {
+    "audioset": {
+      "Environmental noise": 0.7076772451400757,
+      "Bird vocalization, bird call, bird song": 0.49673914909362793,
+      "Bird": 0.4875620901584625,
+      "Chirp, tweet": 0.40285617113113403
+    },
+    "esc50": {
+      "chirping_birds": 0.49673914909362793
+    }
+  },
+  "forest_woodland/564436_Forest_Ambience_1.wav.wav": {
+    "audioset": {
+      "Insect": 0.9044971466064453,
+      "Bee, wasp, etc.": 0.7312913537025452,
+      "Environmental noise": 0.6958981156349182,
+      "Fly, housefly": 0.6306999325752258,
+      "Turkey": 0.30596309900283813,
+      "Cricket": 0.2976226508617401,
+      "Bird": 0.2860407829284668
+    },
+    "esc50": {
+      "chirping_birds": 0.2860407829284668,
+      "crickets": 0.2976226508617401,
+      "insects": 0.9044971466064453
+    }
+  },
+  "forest_woodland/607434_River_in_Forest_Ambience.wav.wav": {
+    "audioset": {
+      "Crow": 0.49740228056907654,
+      "Water": 0.42568671703338623,
+      "Caw": 0.35706955194473267,
+      "Water tap, faucet": 0.33504995703697205
+    },
+    "esc50": {
+      "crow": 0.49740228056907654,
+      "pouring_water": 0.42568671703338623
+    }
+  },
+  "forest_woodland/624355_Ambience_-_equatorial_forest_afternoon_2_stream_nearby.wav": {
+    "audioset": {
+      "Insect": 0.4744768440723419,
+      "Cricket": 0.46952149271965027,
+      "Stream": 0.36751222610473633,
+      "Pour": 0.3116656243801117
+    },
+    "esc50": {
+      "crickets": 0.46952149271965027,
+      "insects": 0.4744768440723419,
+      "pouring_water": 0.3116656243801117
+    }
+  },
+  "forest_woodland/637559_forest_ambience_constant_breeze.flac.flac": {
+    "audioset": {},
+    "esc50": {}
+  },
+  "forest_woodland/697236_Forest_River_Ambience.m4a": {
+    "audioset": {
+      "Stream": 0.3726459741592407,
+      "Raindrop": 0.27093106508255005,
+      "Trickle, dribble": 0.26346227526664734
+    },
+    "esc50": {
+      "rain": 0.27093106508255005
+    }
+  },
+  "forest_woodland/698308_New_England_Forest_with_Soft_Rain_Morning_Ambience.wav": {
+    "audioset": {
+      "Animal": 0.5639702081680298,
+      "Environmental noise": 0.3601355254650116
+    },
+    "esc50": {}
+  },
+  "forest_woodland/759562_Light_Forest_Rain_Ambience_with_Village_Sounds_in_the_Background.wav": {
+    "audioset": {
+      "Raindrop": 0.7195195555686951,
+      "Rain on surface": 0.6983763575553894,
+      "Rain": 0.5573281049728394,
+      "Fire": 0.30817583203315735
+    },
+    "esc50": {
+      "crackling_fire": 0.30817583203315735,
+      "rain": 0.7195195555686951,
+      "sea_waves": 0.6983763575553894
+    }
+  },
+  "forest_woodland/765314_AMBSwmp-Ext_Forest_Ambience_Zane_OwSFX.m4a": {
+    "audioset": {
+      "Trickle, dribble": 0.5243650078773499,
+      "Stream": 0.48249655961990356,
+      "Water": 0.31644636392593384
+    },
+    "esc50": {
+      "pouring_water": 0.31644636392593384
+    }
+  },
+  "forest_woodland/804838_Forest_Ambience_Monk_s_Trail_Chiang_Mai_Thailand_March_7_2019.wav": {
+    "audioset": {
+      "Environmental noise": 0.48204973340034485,
+      "Insect": 0.3863997459411621,
+      "Cricket": 0.36512836813926697
+    },
+    "esc50": {
+      "crickets": 0.36512836813926697,
+      "insects": 0.3863997459411621
+    }
+  },
+  "forest_woodland/811076_WOODTonl_Creaking_of_one_branch_and_pine_forest_ambience_by_a_path_R_deby_Sweden.wav": {
+    "audioset": {
+      "Cattle, bovinae": 0.8169215321540833,
+      "Environmental noise": 0.7858395576477051,
+      "Livestock, farm animals, working animals": 0.7588670253753662,
+      "Moo": 0.6960657238960266,
+      "Electric shaver, electric razor": 0.308580219745636,
+      "Animal": 0.2543604373931885
+    },
+    "esc50": {
+      "cat": 0.8169215321540833,
+      "cow": 0.6960657238960266
+    }
+  },
+  "forest_woodland/826326_Forest_Ambience_with_Birds.wav": {
+    "audioset": {
+      "Bird vocalization, bird call, bird song": 0.537126898765564,
+      "Bird": 0.5278173089027405,
+      "Chirp, tweet": 0.5192002058029175,
+      "Environmental noise": 0.44577696919441223,
+      "Patter": 0.4100382328033447,
+      "Owl": 0.3462193012237549
+    },
+    "esc50": {
+      "chirping_birds": 0.537126898765564
+    }
+  },
+  "forest_woodland/851354_AMBForst_Ambience_noon_forest_trail_Piratininga_Niter_i_Rio_de_Janeiro_rooster_birds_cicadas_BF_ARA_.wav": {
+    "audioset": {
+      "Insect": 0.9060483574867249,
+      "Bee, wasp, etc.": 0.8979146480560303,
+      "Fly, housefly": 0.8386113047599792,
+      "Crowing, cock-a-doodle-doo": 0.5499933362007141,
+      "Environmental noise": 0.4471164643764496,
+      "Fowl": 0.4457920789718628,
+      "Animal": 0.3699415624141693,
+      "Chicken, rooster": 0.3681703507900238,
+      "Cricket": 0.33649495244026184,
+      "Mouse": 0.32924196124076843,
+      "Bird": 0.29440927505493164,
+      "Bird vocalization, bird call, bird song": 0.2778501808643341
+    },
+    "esc50": {
+      "chirping_birds": 0.29440927505493164,
+      "crickets": 0.33649495244026184,
+      "crow": 0.5499933362007141,
+      "hen": 0.3681703507900238,
+      "insects": 0.9060483574867249,
+      "mouse_click": 0.32924196124076843,
+      "rooster": 0.5499933362007141
+    }
+  },
+  "home_living_bedroom/171740_room-tone_quiet_01_121129_01.wav.wav": {
+    "audioset": {
+      "Cupboard open or close": 0.6283906102180481,
+      "Speech": 0.39840179681777954,
+      "Silence": 0.3818848431110382,
+      "Bird": 0.30965757369995117,
+      "Door": 0.2548743188381195
+    },
+    "esc50": {
+      "chirping_birds": 0.30965757369995117,
+      "door_wood_creaks": 0.2548743188381195,
+      "door_wood_knock": 0.2548743188381195
+    }
+  },
+  "home_living_bedroom/274675_shower_part1.wav.wav": {
+    "audioset": {
+      "Water tap, faucet": 0.6857832074165344,
+      "Sink (filling or washing)": 0.5920039415359497,
+      "Water": 0.531482458114624,
+      "Bathtub (filling or washing)": 0.2762831747531891
+    },
+    "esc50": {
+      "pouring_water": 0.6857832074165344
+    }
+  },
+  "home_living_bedroom/325626_Ambience_in_the_kitchen.wav": {
+    "audioset": {
+      "Silence": 0.42849111557006836
+    },
+    "esc50": {}
+  },
+  "home_living_bedroom/339070_street_soundscape_berlin_going_home_from_the_supermarket.wav": {
+    "audioset": {
+      "Speech": 0.793483555316925,
+      "Door": 0.5304900407791138,
+      "Cupboard open or close": 0.5173013806343079,
+      "Wind": 0.502295196056366,
+      "Vehicle": 0.45230939984321594,
+      "Drawer open or close": 0.43578824400901794,
+      "Boat, Water vehicle": 0.4169476330280304,
+      "Snort": 0.4002518653869629,
+      "Wind noise (microphone)": 0.36337292194366455,
+      "Motorboat, speedboat": 0.35299569368362427,
+      "Run": 0.3401394784450531,
+      "Thunk": 0.33298760652542114,
+      "Clip-clop": 0.30843424797058105,
+      "Animal": 0.2874334752559662,
+      "Bird": 0.2597076892852783
+    },
+    "esc50": {
+      "chirping_birds": 0.2597076892852783,
+      "door_wood_creaks": 0.5304900407791138,
+      "door_wood_knock": 0.5304900407791138,
+      "engine": 0.35299569368362427,
+      "pouring_water": 0.4169476330280304,
+      "wind": 0.502295196056366
+    }
+  },
+  "home_living_bedroom/366527_Apartment_night_ambience.wav": {
+    "audioset": {
+      "Cricket": 0.8949175477027893,
+      "Insect": 0.8397663831710815
+    },
+    "esc50": {
+      "crickets": 0.8949175477027893,
+      "insects": 0.8397663831710815
+    }
+  },
+  "home_living_bedroom/376466_Red_Xao_Homestay_Ambience.wav": {
+    "audioset": {
+      "Speech": 0.7822006344795227,
+      "Cat": 0.6836526393890381,
+      "Animal": 0.5222389698028564,
+      "Domestic animals, pets": 0.48808151483535767,
+      "Meow": 0.3966163992881775
+    },
+    "esc50": {
+      "cat": 0.6836526393890381
+    }
+  },
+  "home_living_bedroom/403121_fireworks_-_distance_new_year_atmosphere_home_-_chat_on_CPU.wav": {
+    "audioset": {
+      "Fireworks": 0.8798772692680359,
+      "Speech": 0.6954950094223022,
+      "Door": 0.6782979965209961,
+      "Clip-clop": 0.6705714464187622,
+      "Music": 0.6577556729316711,
+      "Horse": 0.6365379691123962,
+      "Explosion": 0.5361791253089905,
+      "Firecracker": 0.41852712631225586,
+      "Train": 0.4099806845188141,
+      "Burst, pop": 0.39450910687446594,
+      "Animal": 0.392442524433136,
+      "Writing": 0.3452353775501251,
+      "Rub": 0.3377778232097626,
+      "Computer keyboard": 0.32828518748283386,
+      "Typing": 0.3241128623485565,
+      "Sheep": 0.2936200797557831,
+      "Vehicle": 0.28883156180381775,
+      "Bouncing": 0.27839475870132446,
+      "Clicking": 0.2649993896484375,
+      "Arrow": 0.25093919038772583
+    },
+    "esc50": {
+      "crackling_fire": 0.8798772692680359,
+      "door_wood_creaks": 0.6782979965209961,
+      "door_wood_knock": 0.6782979965209961,
+      "fireworks": 0.8798772692680359,
+      "keyboard_typing": 0.32828518748283386,
+      "mouse_click": 0.2649993896484375,
+      "rain": 0.4099806845188141,
+      "sheep": 0.2936200797557831,
+      "train": 0.4099806845188141
+    }
+  },
+  "home_living_bedroom/452506_Home_Depot_ambience_large_hardware_store_quebecois_voices_activity_chiselling_machine_hum_and_off_Mo.flac": {
+    "audioset": {
+      "Speech": 0.7842859625816345,
+      "Tools": 0.5011770725250244,
+      "Horse": 0.3969419002532959,
+      "Clip-clop": 0.39111778140068054,
+      "Sliding door": 0.3506762981414795,
+      "Wood": 0.31214240193367004,
+      "Animal": 0.2755492329597473
+    },
+    "esc50": {
+      "door_wood_creaks": 0.3506762981414795,
+      "door_wood_knock": 0.3506762981414795
+    }
+  },
+  "home_living_bedroom/502692_Indoors_Day_Rainy_01.wav.wav": {
+    "audioset": {
+      "Shuffle": 0.3264375627040863
+    },
+    "esc50": {}
+  },
+  "home_living_bedroom/516890_Suburban_Morning_Ambience_Atmosphere.wav": {
+    "audioset": {
+      "Environmental noise": 0.7289918065071106,
+      "Bird vocalization, bird call, bird song": 0.6631984710693359,
+      "Bird": 0.6564059853553772,
+      "Chirp, tweet": 0.5599871873855591
+    },
+    "esc50": {
+      "chirping_birds": 0.6631984710693359
+    }
+  },
+  "home_living_bedroom/568023_abyss__ambience1.wav.wav": {
+    "audioset": {
+      "Gong": 0.8880627751350403,
+      "Rumble": 0.7382041811943054,
+      "Hum": 0.4865114092826843,
+      "Mains hum": 0.3011709451675415,
+      "Static": 0.292619913816452
+    },
+    "esc50": {}
+  },
+  "home_living_bedroom/669734_Jard_n_de_una_casa_en_la_Huasteca_Garden_of_a_house_in_the_Huasteca.wav.wav": {
+    "audioset": {
+      "Bird": 0.7361987829208374,
+      "Bird vocalization, bird call, bird song": 0.521806538105011,
+      "Chirp, tweet": 0.5029665231704712,
+      "Coo": 0.4778779149055481,
+      "Pigeon, dove": 0.3382880389690399,
+      "Owl": 0.3284415304660797
+    },
+    "esc50": {
+      "chirping_birds": 0.7361987829208374,
+      "pig": 0.3382880389690399
+    }
+  },
+  "home_living_bedroom/699142_Night_Crickets_Wind_suburban_adelaide.wav.wav": {
+    "audioset": {
+      "Cricket": 0.2911446988582611,
+      "Insect": 0.27623069286346436
+    },
+    "esc50": {
+      "crickets": 0.2911446988582611,
+      "insects": 0.27623069286346436
+    }
+  },
+  "home_living_bedroom/735404_RAINInt_Drops_Of_Rain_Drum_On_The_Windowsill_1_EM.wav": {
+    "audioset": {
+      "Tick": 0.3530319929122925,
+      "Tick-tock": 0.3108052611351013
+    },
+    "esc50": {
+      "clock_tick": 0.3530319929122925
+    }
+  },
+  "home_living_bedroom/760167_AMB_Study_Area_Room_Tone.wav": {
+    "audioset": {
+      "Silence": 0.5865901112556458
+    },
+    "esc50": {}
+  },
+  "home_living_bedroom/780515_AMBRoom_empty_home_kitchen_room_tone_with_a_working_refrigerator_switching_off_in_the_middle.wav": {
+    "audioset": {
+      "Silence": 0.7926113605499268
+    },
+    "esc50": {}
+  },
+  "home_living_bedroom/792228_AMBHome-Tascam_X6_Experience_the_warmth_and_gentle_rhythm_of_TheFieldRecordist_-_RNajmeddine_Ramadan.wav": {
+    "audioset": {
+      "Boiling": 0.8014439344406128,
+      "Tick": 0.6972150802612305,
+      "Tick-tock": 0.6253980994224548,
+      "Dishes, pots, and pans": 0.5113043189048767,
+      "Cutlery, silverware": 0.450991153717041,
+      "Patter": 0.34284499287605286,
+      "Glass": 0.2725006639957428,
+      "Drawer open or close": 0.2704051434993744,
+      "Finger snapping": 0.26073509454727173
+    },
+    "esc50": {
+      "clock_tick": 0.6972150802612305,
+      "glass_breaking": 0.2725006639957428
+    }
+  },
+  "home_living_bedroom/799197_AMBHome_Kitchen.The_Old_Apartment.Wall_Clock.Ventilation_Noise.Birds_On_The_Street_EM.wav": {
+    "audioset": {
+      "Tick": 0.3622136414051056
+    },
+    "esc50": {
+      "clock_tick": 0.3622136414051056
+    }
+  },
+  "kitchen_dining/110136_Kitchen_ambience.wav.wav": {
+    "audioset": {
+      "Tick": 0.2782159745693207,
+      "Tick-tock": 0.27277323603630066
+    },
+    "esc50": {
+      "clock_tick": 0.2782159745693207
+    }
+  },
+  "kitchen_dining/138064_steaming_water_ambience.wav.wav": {
+    "audioset": {
+      "Sizzle": 0.8276926875114441,
+      "Frying (food)": 0.7874295711517334,
+      "Rain on surface": 0.6427755355834961,
+      "Stir": 0.6362695693969727,
+      "Rain": 0.42206594347953796,
+      "Raindrop": 0.2597537040710449
+    },
+    "esc50": {
+      "rain": 0.6427755355834961,
+      "sea_waves": 0.6427755355834961
+    }
+  },
+  "kitchen_dining/178506_woman_cooking_rural_kitchen.aiff.aiff": {
+    "audioset": {
+      "Chicken, rooster": 0.8005352020263672,
+      "Dishes, pots, and pans": 0.7076606154441833,
+      "Cricket": 0.6993045210838318,
+      "Insect": 0.6669315695762634,
+      "Fowl": 0.5204497575759888,
+      "Cluck": 0.48770052194595337,
+      "Crowing, cock-a-doodle-doo": 0.4605870246887207,
+      "Cutlery, silverware": 0.4602460265159607,
+      "Music": 0.4162808954715729,
+      "Speech": 0.33183833956718445,
+      "Bird": 0.3266538381576538,
+      "Bird vocalization, bird call, bird song": 0.28332841396331787,
+      "Animal": 0.25995558500289917,
+      "Patter": 0.25688546895980835,
+      "Chirp, tweet": 0.25314533710479736
+    },
+    "esc50": {
+      "chirping_birds": 0.3266538381576538,
+      "crickets": 0.6993045210838318,
+      "crow": 0.4605870246887207,
+      "hen": 0.8005352020263672,
+      "insects": 0.6669315695762634,
+      "rooster": 0.8005352020263672
+    }
+  },
+  "kitchen_dining/205614_Kitchen_and_Outside_Ambience_01.wav": {
+    "audioset": {
+      "Insect": 0.6968803405761719,
+      "Speech": 0.6657886505126953,
+      "Writing": 0.5002618432044983,
+      "Cricket": 0.48513108491897583,
+      "Cupboard open or close": 0.4757256805896759,
+      "Tick-tock": 0.4744260609149933,
+      "Environmental noise": 0.46247726678848267,
+      "Bird": 0.44510984420776367,
+      "Bird vocalization, bird call, bird song": 0.41186076402664185,
+      "Chirp, tweet": 0.3970138728618622,
+      "Vehicle": 0.3438319265842438,
+      "Bee, wasp, etc.": 0.2693888545036316
+    },
+    "esc50": {
+      "chirping_birds": 0.44510984420776367,
+      "clock_tick": 0.4744260609149933,
+      "crickets": 0.48513108491897583,
+      "insects": 0.6968803405761719
+    }
+  },
+  "kitchen_dining/325671_Kitchen_ambiance.wav": {
+    "audioset": {
+      "Silence": 0.6830349564552307
+    },
+    "esc50": {}
+  },
+  "kitchen_dining/326181_Restaurant_Ambience.wav.wav": {
+    "audioset": {
+      "Speech": 0.7129956483840942,
+      "Music": 0.5105704665184021
+    },
+    "esc50": {}
+  },
+  "kitchen_dining/345711_Kitchen_Sounds_-_Clattering_and_Soup_in_the_microwave.wav.wav": {
+    "audioset": {
+      "Microwave oven": 0.9032254815101624,
+      "Wood": 0.5705805420875549,
+      "Cupboard open or close": 0.5344411730766296,
+      "Dishes, pots, and pans": 0.45370402932167053,
+      "Tearing": 0.4376499354839325,
+      "Hammer": 0.4086444675922394,
+      "Drawer open or close": 0.35551294684410095
+    },
+    "esc50": {
+      "crow": 0.9032254815101624,
+      "sea_waves": 0.9032254815101624
+    }
+  },
+  "kitchen_dining/353623_AMB_Kitchen_Fridge.wav.wav": {
+    "audioset": {
+      "Mains hum": 0.8448354601860046,
+      "Hum": 0.8420812487602234
+    },
+    "esc50": {}
+  },
+  "kitchen_dining/366589_Suburban_Kitchen_Ambience.wav.wav": {
+    "audioset": {
+      "Stir": 0.7742519378662109,
+      "Drawer open or close": 0.7243282198905945,
+      "Dishes, pots, and pans": 0.6822529435157776,
+      "Sizzle": 0.6360892653465271,
+      "Frying (food)": 0.3981249928474426,
+      "Cutlery, silverware": 0.3297218084335327
+    },
+    "esc50": {}
+  },
+  "kitchen_dining/440717_A_clock_and_a_fridge_in_a_kitchen_at_night.wav": {
+    "audioset": {
+      "Tick": 0.7483744025230408,
+      "Tick-tock": 0.7315436005592346,
+      "Hum": 0.6096398830413818,
+      "Mains hum": 0.40050816535949707
+    },
+    "esc50": {
+      "clock_tick": 0.7483744025230408
+    }
+  },
+  "kitchen_dining/445094_Coffeehouse_Ambience.wav": {
+    "audioset": {
+      "Speech": 0.7391370534896851,
+      "Sheep": 0.26032862067222595
+    },
+    "esc50": {
+      "sheep": 0.26032862067222595
+    }
+  },
+  "kitchen_dining/459843_Apartment_kitchen_ambience.wav": {
+    "audioset": {
+      "Police car (siren)": 0.8009821772575378,
+      "Siren": 0.517946183681488,
+      "Emergency vehicle": 0.49173295497894287,
+      "White noise": 0.38501524925231934,
+      "Reversing beeps": 0.34189894795417786,
+      "Vehicle": 0.29660534858703613,
+      "Mechanical fan": 0.2943744957447052,
+      "Rumble": 0.28990840911865234
+    },
+    "esc50": {
+      "siren": 0.8009821772575378
+    }
+  },
+  "kitchen_dining/511693_kitchen_ambience.wav.wav": {
+    "audioset": {
+      "Environmental noise": 0.37563657760620117,
+      "Bird": 0.32402995228767395,
+      "Bird vocalization, bird call, bird song": 0.2900947034358978,
+      "Chirp, tweet": 0.26975196599960327
+    },
+    "esc50": {
+      "chirping_birds": 0.32402995228767395
+    }
+  },
+  "kitchen_dining/530620_Kitchen_Roomtone_A.wav": {
+    "audioset": {
+      "Bird": 0.8044570684432983,
+      "Pigeon, dove": 0.6909930109977722,
+      "Coo": 0.6428778171539307,
+      "Bird vocalization, bird call, bird song": 0.26958438754081726
+    },
+    "esc50": {
+      "chirping_birds": 0.8044570684432983,
+      "pig": 0.6909930109977722
+    }
+  },
+  "kitchen_dining/565534_Room_tone_steady_AC_soft_fridge_medium_sound_room_kitchen_ambience_edlarez_vsnr.wav.wav": {
+    "audioset": {},
+    "esc50": {}
+  },
+  "kitchen_dining/608870_Silent_Kitchen_Ambience.wav.wav": {
+    "audioset": {
+      "Silence": 0.4883809983730316
+    },
+    "esc50": {}
+  },
+  "office_public_interior/199896_Office_Ambience.flac": {
+    "audioset": {
+      "Speech": 0.8597257137298584,
+      "Rub": 0.3513492941856384,
+      "Sanding": 0.33339330554008484
+    },
+    "esc50": {}
+  },
+  "office_public_interior/20192_frost_lobby2.wav.wav": {
+    "audioset": {
+      "Speech": 0.6731319427490234,
+      "Animal": 0.3109964430332184,
+      "Music": 0.28481465578079224,
+      "Clip-clop": 0.27887988090515137
+    },
+    "esc50": {}
+  },
+  "office_public_interior/211945_The_Office.flac": {
+    "audioset": {
+      "Printer": 0.9366564154624939,
+      "Typing": 0.9272412657737732,
+      "Computer keyboard": 0.924749493598938,
+      "Speech": 0.8473508358001709,
+      "Telephone bell ringing": 0.32898586988449097,
+      "Ringtone": 0.313113272190094,
+      "Telephone": 0.30284327268600464,
+      "Music": 0.2670151889324188
+    },
+    "esc50": {
+      "church_bells": 0.32898586988449097,
+      "keyboard_typing": 0.9272412657737732
+    }
+  },
+  "office_public_interior/221848_brazilian_office_ambience.mp3.mp3": {
+    "audioset": {
+      "Speech": 0.639014720916748,
+      "Printer": 0.5202818512916565,
+      "Wood": 0.2678460478782654
+    },
+    "esc50": {}
+  },
+  "office_public_interior/327497_Office_Ambience_01_OWI.wav.wav": {
+    "audioset": {
+      "Speech": 0.5585072040557861,
+      "Snort": 0.4805394411087036
+    },
+    "esc50": {}
+  },
+  "office_public_interior/450129_General_Fusion_industrial_workshop_office_ambience1_computer_room_with_conversation_and_heavy_worksh.wav": {
+    "audioset": {
+      "Speech": 0.7233406901359558,
+      "Air conditioning": 0.3079701066017151
+    },
+    "esc50": {}
+  },
+  "office_public_interior/541117_Office_ambience.wav.wav": {
+    "audioset": {
+      "Printer": 0.7876394987106323,
+      "Speech": 0.7014748454093933,
+      "Sliding door": 0.5847851037979126,
+      "Door": 0.4514606297016144,
+      "Drawer open or close": 0.29313263297080994
+    },
+    "esc50": {
+      "door_wood_creaks": 0.5847851037979126,
+      "door_wood_knock": 0.5847851037979126
+    }
+  },
+  "office_public_interior/543584_B_rokratie.mp3.mp3": {
+    "audioset": {
+      "Writing": 0.910517156124115,
+      "Scissors": 0.778038740158081,
+      "Drawer open or close": 0.7605715990066528,
+      "Tearing": 0.5946498513221741,
+      "Cupboard open or close": 0.5292873382568359,
+      "Inside, small room": 0.41675838828086853
+    },
+    "esc50": {}
+  },
+  "office_public_interior/563248_Ambience_Office.wav": {
+    "audioset": {
+      "Speech": 0.8739819526672363,
+      "Bird": 0.7110155820846558,
+      "Pigeon, dove": 0.6146981716156006,
+      "Coo": 0.41622406244277954,
+      "Cupboard open or close": 0.35393956303596497
+    },
+    "esc50": {
+      "chirping_birds": 0.7110155820846558,
+      "pig": 0.6146981716156006
+    }
+  },
+  "office_public_interior/577495_121116_Bank_interior_ambience_office_doors_footstaps_printer_typing_voices.flac.flac": {
+    "audioset": {
+      "Speech": 0.9141815900802612,
+      "Pigeon, dove": 0.7748540639877319,
+      "Bird": 0.7720201015472412,
+      "Cupboard open or close": 0.6113219857215881,
+      "Animal": 0.5756508708000183,
+      "Domestic animals, pets": 0.569589376449585,
+      "Typing": 0.5040795207023621,
+      "Coo": 0.4885075092315674,
+      "Mouse": 0.4729026257991791,
+      "Music": 0.466940313577652,
+      "Cat": 0.4061585068702698,
+      "Computer keyboard": 0.35847172141075134,
+      "Printer": 0.33834365010261536,
+      "Sliding door": 0.25360727310180664
+    },
+    "esc50": {
+      "cat": 0.4061585068702698,
+      "chirping_birds": 0.7720201015472412,
+      "door_wood_creaks": 0.25360727310180664,
+      "door_wood_knock": 0.25360727310180664,
+      "keyboard_typing": 0.5040795207023621,
+      "mouse_click": 0.4729026257991791,
+      "pig": 0.7748540639877319
+    }
+  },
+  "office_public_interior/579568_Office_ambience_-_call_center_3.mp3": {
+    "audioset": {
+      "Speech": 0.9337360262870789,
+      "Chatter": 0.46278777718544006,
+      "Female speech, woman speaking": 0.2766261398792267
+    },
+    "esc50": {}
+  },
+  "office_public_interior/624908_Post_Office.wav.wav": {
+    "audioset": {
+      "Speech": 0.8404974937438965,
+      "Bird": 0.7567054629325867,
+      "Pigeon, dove": 0.7514556646347046,
+      "Door": 0.5350384712219238,
+      "Coo": 0.4425401985645294,
+      "Sliding door": 0.2858634889125824,
+      "Chatter": 0.26362255215644836,
+      "Slam": 0.25066453218460083
+    },
+    "esc50": {
+      "chirping_birds": 0.7567054629325867,
+      "door_wood_creaks": 0.5350384712219238,
+      "door_wood_knock": 0.5350384712219238,
+      "pig": 0.7514556646347046
+    }
+  },
+  "office_public_interior/636268_Office_ambience.m4a.m4a": {
+    "audioset": {
+      "Speech": 0.8949590921401978,
+      "Clip-clop": 0.32766154408454895
+    },
+    "esc50": {}
+  },
+  "office_public_interior/708237_AMB_doctors_office_reception_area_loopable.wav": {
+    "audioset": {
+      "Speech": 0.8518909811973572,
+      "Silence": 0.8159739375114441,
+      "Scissors": 0.3841286599636078,
+      "Narration, monologue": 0.37523332238197327,
+      "Female speech, woman speaking": 0.33803126215934753,
+      "Computer keyboard": 0.3370298445224762,
+      "Typing": 0.2986094355583191,
+      "Music": 0.2794954180717468,
+      "Clicking": 0.2773332893848419
+    },
+    "esc50": {
+      "keyboard_typing": 0.3370298445224762,
+      "mouse_click": 0.2773332893848419
+    }
+  },
+  "office_public_interior/750799_Empty_Office_Ambience.wav": {
+    "audioset": {
+      "Silence": 0.45072969794273376
+    },
+    "esc50": {}
+  },
+  "office_public_interior/752611_Office_Ambience_Interior_quiet.wav": {
+    "audioset": {
+      "Silence": 0.3200475871562958,
+      "Mouse": 0.2920152544975281
+    },
+    "esc50": {
+      "mouse_click": 0.2920152544975281
+    }
+  },
+  "office_public_interior/764492_Office_Ambience.wav": {
+    "audioset": {
+      "Speech": 0.7157322764396667,
+      "Typing": 0.6182022094726562,
+      "Computer keyboard": 0.6130879521369934
+    },
+    "esc50": {
+      "keyboard_typing": 0.6182022094726562
+    }
+  },
+  "office_public_interior/765317_AMBOffc-Int_Office_Ambience_Zane_OwSFX.m4a": {
+    "audioset": {
+      "Speech": 0.6598507761955261,
+      "Sanding": 0.5087099671363831,
+      "Rub": 0.4396255612373352,
+      "Rain": 0.4137517511844635,
+      "Rain on surface": 0.31452351808547974,
+      "Fire": 0.2963324785232544
+    },
+    "esc50": {
+      "crackling_fire": 0.2963324785232544,
+      "rain": 0.4137517511844635,
+      "sea_waves": 0.31452351808547974
+    }
+  },
+  "office_public_interior/862604_Office_Ambience.wav": {
+    "audioset": {
+      "Shuffling cards": 0.71160888671875,
+      "Typing": 0.6829527020454407,
+      "Computer keyboard": 0.6659129858016968,
+      "Zipper (clothing)": 0.5459858775138855,
+      "Clicking": 0.42287275195121765
+    },
+    "esc50": {
+      "keyboard_typing": 0.6829527020454407,
+      "mouse_click": 0.42287275195121765
+    }
+  },
+  "office_public_interior/865566_Office_OutdoorArea_City_Ambiance_2.wav": {
+    "audioset": {
+      "Vehicle": 0.6772556304931641,
+      "Train": 0.6728626489639282,
+      "Traffic noise, roadway noise": 0.521048367023468,
+      "Toot": 0.49259817600250244,
+      "Rail transport": 0.43961551785469055,
+      "Field recording": 0.3873653709888458,
+      "Aircraft": 0.3863091468811035,
+      "Train horn": 0.35807478427886963,
+      "Railroad car, train wagon": 0.34829288721084595,
+      "Fixed-wing aircraft, airplane": 0.33432602882385254,
+      "Outside, urban or manmade": 0.3018202781677246,
+      "Vehicle horn, car horn, honking": 0.2933804392814636,
+      "Car": 0.2814810574054718
+    },
+    "esc50": {
+      "airplane": 0.3863091468811035,
+      "car_horn": 0.35807478427886963,
+      "rain": 0.6728626489639282,
+      "train": 0.6728626489639282
+    }
+  },
+  "park_garden/348861_Moscow_Tsaritsyno_Park_ambience_OMNI_mics.wav.wav": {
+    "audioset": {
+      "Bird": 0.6725654602050781,
+      "Bird flight, flapping wings": 0.6263885498046875,
+      "Chirp, tweet": 0.5504828691482544,
+      "Bird vocalization, bird call, bird song": 0.5036108493804932,
+      "Environmental noise": 0.42264997959136963,
+      "Speech": 0.4131864011287689,
+      "Mouse": 0.36274534463882446,
+      "Rodents, rats, mice": 0.26258155703544617
+    },
+    "esc50": {
+      "chirping_birds": 0.6725654602050781,
+      "mouse_click": 0.36274534463882446
+    }
+  },
+  "park_garden/353513_Dresden_Park_Ambience_Cars_Train_Evening_good_weather_H6.wav.wav": {
+    "audioset": {
+      "Crow": 0.8888687491416931,
+      "Train": 0.8505868315696716,
+      "Caw": 0.7634031176567078,
+      "Railroad car, train wagon": 0.7253850698471069,
+      "Rail transport": 0.7133597135543823,
+      "Vehicle": 0.6841261982917786,
+      "Purr": 0.49698778986930847,
+      "Field recording": 0.45605185627937317,
+      "Car": 0.44932064414024353,
+      "Animal": 0.3978819251060486,
+      "Thunder": 0.38871002197265625,
+      "Cat": 0.3372838497161865,
+      "Thunderstorm": 0.2997204065322876,
+      "Fixed-wing aircraft, airplane": 0.2653094530105591,
+      "Aircraft": 0.2535640597343445
+    },
+    "esc50": {
+      "airplane": 0.2653094530105591,
+      "cat": 0.49698778986930847,
+      "crow": 0.8888687491416931,
+      "rain": 0.8505868315696716,
+      "thunderstorm": 0.38871002197265625,
+      "train": 0.8505868315696716
+    }
+  },
+  "park_garden/366372_Dog_Park_Ambience.wav": {
+    "audioset": {
+      "Speech": 0.7516711950302124,
+      "Animal": 0.6995335817337036,
+      "Dog": 0.5654675960540771,
+      "Fowl": 0.5406172871589661,
+      "Domestic animals, pets": 0.5286483764648438,
+      "Bow-wow": 0.38447079062461853,
+      "Turkey": 0.35940077900886536,
+      "Outside, rural or natural": 0.2601642906665802
+    },
+    "esc50": {
+      "dog": 0.5654675960540771
+    }
+  },
+  "park_garden/380687_Soft_City_Park_Ambience.aiff": {
+    "audioset": {
+      "Silence": 0.7374856472015381,
+      "Snort": 0.5785921812057495,
+      "Environmental noise": 0.5720353722572327
+    },
+    "esc50": {}
+  },
+  "park_garden/444904_Park_Ambience.wav": {
+    "audioset": {
+      "Environmental noise": 0.7092737555503845,
+      "Crow": 0.4783151149749756,
+      "Bird": 0.42751070857048035,
+      "Bird vocalization, bird call, bird song": 0.3613307476043701,
+      "Animal": 0.3373671770095825,
+      "Caw": 0.29068633913993835,
+      "Chirp, tweet": 0.2648845314979553
+    },
+    "esc50": {
+      "chirping_birds": 0.42751070857048035,
+      "crow": 0.4783151149749756
+    }
+  },
+  "park_garden/444933_AMBIENCE_Griffith_Park.wav.wav": {
+    "audioset": {
+      "Walk, footsteps": 0.7463966012001038,
+      "Speech": 0.7070270776748657,
+      "Animal": 0.6758639216423035,
+      "Bird": 0.5240938067436218,
+      "Environmental noise": 0.39620622992515564,
+      "Horse": 0.3698999285697937,
+      "Bird vocalization, bird call, bird song": 0.30791381001472473,
+      "Chirp, tweet": 0.2893695533275604
+    },
+    "esc50": {
+      "chirping_birds": 0.5240938067436218,
+      "footsteps": 0.7463966012001038
+    }
+  },
+  "park_garden/533010_park_ambience_near_a_street.wav": {
+    "audioset": {
+      "Crow": 0.835868239402771,
+      "Speech": 0.7695040702819824,
+      "Caw": 0.7574959397315979,
+      "Animal": 0.47283631563186646,
+      "Owl": 0.40996912121772766,
+      "Bird": 0.3505169749259949,
+      "Vehicle": 0.3289128243923187
+    },
+    "esc50": {
+      "chirping_birds": 0.3505169749259949,
+      "crow": 0.835868239402771
+    }
+  },
+  "park_garden/591790_Park_ambience_OWI.wav.wav": {
+    "audioset": {
+      "Environmental noise": 0.7430598735809326,
+      "Bird": 0.37918776273727417,
+      "Bird vocalization, bird call, bird song": 0.35735389590263367,
+      "Chirp, tweet": 0.3033113479614258,
+      "Animal": 0.2877676486968994
+    },
+    "esc50": {
+      "chirping_birds": 0.37918776273727417
+    }
+  },
+  "park_garden/594588_Empty_Park_Ambience.wav.wav": {
+    "audioset": {
+      "Environmental noise": 0.672042727470398,
+      "Bird": 0.47581252455711365,
+      "Bird vocalization, bird call, bird song": 0.42868319153785706,
+      "Chirp, tweet": 0.3803717792034149
+    },
+    "esc50": {
+      "chirping_birds": 0.47581252455711365
+    }
+  },
+  "park_garden/594590_Swinging_in_a_semi_busy_park_on_a_windy_day_Ambience.wav.wav": {
+    "audioset": {
+      "Environmental noise": 0.7534106373786926,
+      "Animal": 0.46572262048721313,
+      "Bird": 0.29375287890434265
+    },
+    "esc50": {
+      "chirping_birds": 0.29375287890434265
+    }
+  },
+  "park_garden/638347_Crystal_Palace_Park_Ambience.flac": {
+    "audioset": {
+      "Speech": 0.5967146158218384,
+      "Music": 0.3898424506187439,
+      "Environmental noise": 0.36476337909698486,
+      "Field recording": 0.32288315892219543,
+      "Bird vocalization, bird call, bird song": 0.2946069538593292,
+      "Bird": 0.2940194010734558,
+      "Vehicle": 0.2926787734031677,
+      "Animal": 0.278138667345047
+    },
+    "esc50": {
+      "chirping_birds": 0.2946069538593292
+    }
+  },
+  "park_garden/654570_Park_Ambience.wav.wav": {
+    "audioset": {
+      "Environmental noise": 0.781524121761322,
+      "Bird": 0.31849226355552673,
+      "Bird vocalization, bird call, bird song": 0.297262042760849,
+      "Animal": 0.27016839385032654
+    },
+    "esc50": {
+      "chirping_birds": 0.31849226355552673
+    }
+  },
+  "park_garden/655233_Ambience_-_Park_at_Day.wav.wav": {
+    "audioset": {
+      "Environmental noise": 0.7279846668243408,
+      "Bird vocalization, bird call, bird song": 0.6344105005264282,
+      "Chirp, tweet": 0.5301504731178284,
+      "Bird": 0.5105296969413757
+    },
+    "esc50": {
+      "chirping_birds": 0.6344105005264282
+    }
+  },
+  "park_garden/698887_park_sping_NL12.55_PM_220503_0341.mp3": {
+    "audioset": {
+      "Bird": 0.825383186340332,
+      "Bird vocalization, bird call, bird song": 0.8191971778869629,
+      "Chirp, tweet": 0.8095716834068298,
+      "Environmental noise": 0.6311457753181458,
+      "Music": 0.25393086671829224
+    },
+    "esc50": {
+      "chirping_birds": 0.825383186340332
+    }
+  },
+  "park_garden/703427_2023-09-23-greenwich-park-003.wav.wav": {
+    "audioset": {
+      "Speech": 0.7802046537399292,
+      "Animal": 0.4271056056022644,
+      "Vehicle": 0.32479703426361084
+    },
+    "esc50": {}
+  },
+  "park_garden/727877_ambience_city_party_sokolniki_park_late_winter_Moscow.wav": {
+    "audioset": {
+      "Speech": 0.8604676723480225,
+      "Music": 0.6333309412002563,
+      "Run": 0.5553101301193237,
+      "Horse": 0.45552366971969604,
+      "Clip-clop": 0.42104455828666687,
+      "Outside, urban or manmade": 0.29680776596069336,
+      "Animal": 0.26540905237197876
+    },
+    "esc50": {}
+  },
+  "park_garden/765305_AMBPark-Ext_Park_Ambience_Zane_OwSFX.m4a": {
+    "audioset": {
+      "Speech": 0.9198153018951416,
+      "Animal": 0.7091547250747681,
+      "Dog": 0.524970293045044,
+      "Children playing": 0.4974992871284485,
+      "Domestic animals, pets": 0.40464648604393005,
+      "Bow-wow": 0.3191133141517639,
+      "Stream": 0.2533150613307953
+    },
+    "esc50": {
+      "dog": 0.524970293045044
+    }
+  },
+  "park_garden/791361_AMBTown_Evening_town_ambience_from_an_open_park_field_Karlskrona_Sweden.wav": {
+    "audioset": {
+      "Train": 0.9117754101753235,
+      "Rail transport": 0.8448609113693237,
+      "Railroad car, train wagon": 0.8041363954544067,
+      "Field recording": 0.6520651578903198,
+      "Subway, metro, underground": 0.6421117186546326,
+      "Vehicle": 0.5373839735984802,
+      "Car": 0.4432859718799591,
+      "Patter": 0.388752818107605,
+      "Tick": 0.3707497715950012,
+      "Eruption": 0.30063551664352417,
+      "Tick-tock": 0.27132824063301086,
+      "Rumble": 0.26129552721977234
+    },
+    "esc50": {
+      "clock_tick": 0.3707497715950012,
+      "rain": 0.9117754101753235,
+      "train": 0.9117754101753235
+    }
+  },
+  "park_garden/795569_AMBPark_Hoglands_park_lively_day_ambience_with_birds_people_and_traffic_Karlskrona_Sweden.wav": {
+    "audioset": {
+      "Crow": 0.9514085054397583,
+      "Caw": 0.9178165197372437,
+      "Speech": 0.6390281915664673,
+      "Walk, footsteps": 0.6372315883636475,
+      "Fowl": 0.5657675266265869,
+      "Bird": 0.5377824306488037,
+      "Turkey": 0.5331997871398926,
+      "Animal": 0.5114960074424744,
+      "Fixed-wing aircraft, airplane": 0.5060417652130127,
+      "Field recording": 0.43841132521629333,
+      "Goose": 0.43117836117744446,
+      "Environmental noise": 0.4183492064476013,
+      "Honk": 0.3894500434398651,
+      "Aircraft": 0.38720616698265076,
+      "Gobble": 0.34657347202301025,
+      "Bird vocalization, bird call, bird song": 0.32326042652130127,
+      "Sheep": 0.2843170166015625,
+      "Vehicle": 0.2749011218547821,
+      "Outside, rural or natural": 0.2583148181438446
+    },
+    "esc50": {
+      "airplane": 0.5060417652130127,
+      "chirping_birds": 0.5377824306488037,
+      "crow": 0.9514085054397583,
+      "footsteps": 0.6372315883636475,
+      "sheep": 0.2843170166015625
+    }
+  },
+  "park_garden/839450_Lo-Fi_Park_Ambience.wav": {
+    "audioset": {
+      "Speech": 0.729097306728363,
+      "Pink noise": 0.5846520066261292,
+      "Vehicle": 0.4750710129737854,
+      "Vehicle horn, car horn, honking": 0.37460219860076904,
+      "Outside, urban or manmade": 0.3650674819946289,
+      "Toot": 0.3626324534416199,
+      "Traffic noise, roadway noise": 0.33990976214408875
+    },
+    "esc50": {
+      "car_horn": 0.37460219860076904
+    }
+  },
+  "rural_farm/106736_geese_copake_farmland_2.aif.aiff": {
+    "audioset": {
+      "Honk": 0.866638720035553,
+      "Goose": 0.8065647482872009,
+      "Fowl": 0.739425778388977,
+      "Duck": 0.45966145396232605,
+      "Quack": 0.33964890241622925
+    },
+    "esc50": {}
+  },
+  "rural_farm/255519_Rural_Ambience_Stereo_Ms.wav": {
+    "audioset": {
+      "Speech": 0.7811408042907715,
+      "Vehicle": 0.7715623378753662,
+      "Traffic noise, roadway noise": 0.38074806332588196,
+      "White noise": 0.33015176653862,
+      "Car": 0.33004969358444214,
+      "Field recording": 0.29733097553253174,
+      "Rain": 0.28713294863700867,
+      "Rain on surface": 0.27257055044174194
+    },
+    "esc50": {
+      "rain": 0.28713294863700867,
+      "sea_waves": 0.27257055044174194
+    }
+  },
+  "rural_farm/331444_Gentle_rich_cricket_and_insects_at_night_rural-Lebanon_.wav.wav": {
+    "audioset": {
+      "Cricket": 0.9198040962219238,
+      "Insect": 0.9038342833518982,
+      "Animal": 0.27655133605003357
+    },
+    "esc50": {
+      "crickets": 0.9198040962219238,
+      "insects": 0.9038342833518982
+    }
+  },
+  "rural_farm/340325_Rural_ourdoors_birds.wav.wav": {
+    "audioset": {
+      "Bird vocalization, bird call, bird song": 0.7271584868431091,
+      "Environmental noise": 0.6409633755683899,
+      "Turkey": 0.6402254700660706,
+      "Chirp, tweet": 0.5995391011238098,
+      "Bird": 0.5968685746192932,
+      "Gobble": 0.5296410918235779,
+      "Fowl": 0.49687984585762024,
+      "Insect": 0.35886988043785095
+    },
+    "esc50": {
+      "chirping_birds": 0.7271584868431091,
+      "insects": 0.35886988043785095
+    }
+  },
+  "rural_farm/397678_Rural_Ambience_in_Brunei.WAV.wav": {
+    "audioset": {
+      "Frog": 0.40806958079338074,
+      "Animal": 0.40773746371269226,
+      "Whale vocalization": 0.3986349403858185,
+      "Music": 0.3666904866695404,
+      "Cricket": 0.262408584356308
+    },
+    "esc50": {
+      "crickets": 0.262408584356308,
+      "frog": 0.40806958079338074
+    }
+  },
+  "rural_farm/398607_Rural_ambience_afternoon_light_wind_birds_insects_with_distant_vehicles_and_loudspeaker.wav.wav": {
+    "audioset": {
+      "Music": 0.7288106083869934,
+      "Speech": 0.6336925625801086,
+      "Vehicle": 0.5727984309196472,
+      "Bird": 0.5586106181144714,
+      "Bird vocalization, bird call, bird song": 0.37214621901512146,
+      "Traffic noise, roadway noise": 0.358461856842041,
+      "Chirp, tweet": 0.33995723724365234,
+      "Environmental noise": 0.26810330152511597
+    },
+    "esc50": {
+      "chirping_birds": 0.5586106181144714
+    }
+  },
+  "rural_farm/398853_Rural_outdoor_ambience_afternoon_light_wind_vehicles_pass_bys_and_distant_loudspeaker.wav": {
+    "audioset": {
+      "Music": 0.7690326571464539,
+      "Speech": 0.6630426049232483,
+      "Vehicle": 0.5432120561599731,
+      "Environmental noise": 0.529279887676239,
+      "Bird": 0.4160020053386688,
+      "Motorcycle": 0.40192079544067383,
+      "Chirp, tweet": 0.39860957860946655,
+      "Bird vocalization, bird call, bird song": 0.36614176630973816,
+      "Shuffle": 0.3257172405719757
+    },
+    "esc50": {
+      "chirping_birds": 0.4160020053386688,
+      "engine": 0.40192079544067383
+    }
+  },
+  "rural_farm/398860_Rural_Terrace_afternoon_ambience_light_wind_leaves_rustle_birds_with_distant_loudspeaker.wav": {
+    "audioset": {
+      "Bird": 0.7110698819160461,
+      "Speech": 0.5770894289016724,
+      "Music": 0.544734001159668,
+      "Bird vocalization, bird call, bird song": 0.50825035572052,
+      "Chirp, tweet": 0.5048162937164307,
+      "Environmental noise": 0.4503732919692993,
+      "Coo": 0.38503530621528625,
+      "Rain on surface": 0.34632208943367004,
+      "Raindrop": 0.34534868597984314,
+      "Animal": 0.3379148244857788,
+      "Fowl": 0.32969993352890015,
+      "Rain": 0.29316338896751404
+    },
+    "esc50": {
+      "chirping_birds": 0.7110698819160461,
+      "rain": 0.34632208943367004,
+      "sea_waves": 0.34632208943367004
+    }
+  },
+  "rural_farm/418271_Ambience-Rural-Early_Evening-Birds_Chirping_Light_Wind_Leaves_on_Trees_Rustling_Near_and_Light_Traff.wav": {
+    "audioset": {
+      "Vehicle": 0.7262588143348694,
+      "Animal": 0.6491974592208862,
+      "Environmental noise": 0.6455969214439392,
+      "Speech": 0.6201299428939819,
+      "Dog": 0.6024128794670105,
+      "Walk, footsteps": 0.49264469742774963,
+      "Bow-wow": 0.4406891465187073,
+      "Motorcycle": 0.43702661991119385,
+      "Lawn mower": 0.36184826493263245,
+      "Bird": 0.35991352796554565,
+      "Domestic animals, pets": 0.34339627623558044,
+      "Car": 0.2598372995853424,
+      "Bark": 0.25956669449806213
+    },
+    "esc50": {
+      "chirping_birds": 0.35991352796554565,
+      "dog": 0.6024128794670105,
+      "engine": 0.43702661991119385,
+      "footsteps": 0.49264469742774963
+    }
+  },
+  "rural_farm/455041_Passing_cows.wav": {
+    "audioset": {
+      "Cattle, bovinae": 0.9779535531997681,
+      "Moo": 0.9728112816810608,
+      "Livestock, farm animals, working animals": 0.9671639204025269,
+      "Speech": 0.697295606136322,
+      "Environmental noise": 0.6961483955383301,
+      "Animal": 0.6199266314506531,
+      "Clip-clop": 0.5128675103187561,
+      "Bird vocalization, bird call, bird song": 0.4557330906391144,
+      "Horse": 0.43539366126060486,
+      "Bird": 0.4162119925022125,
+      "Chirp, tweet": 0.35222938656806946
+    },
+    "esc50": {
+      "cat": 0.9779535531997681,
+      "chirping_birds": 0.4557330906391144,
+      "cow": 0.9728112816810608
+    }
+  },
+  "rural_farm/487009_Ambience_Outdoor_Rural_Wind_Parc_Casa_de_les_Aigues_2.wav": {
+    "audioset": {
+      "Bird": 0.832781970500946,
+      "Animal": 0.8020047545433044,
+      "Train": 0.6713414192199707,
+      "Bird vocalization, bird call, bird song": 0.6420688033103943,
+      "Chirp, tweet": 0.612496554851532,
+      "Rail transport": 0.5967674851417542,
+      "Dog": 0.5784014463424683,
+      "Railroad car, train wagon": 0.5268552899360657,
+      "Domestic animals, pets": 0.5122308731079102,
+      "Crow": 0.46875250339508057,
+      "Vehicle": 0.46342501044273376,
+      "Insect": 0.4560679793357849,
+      "Environmental noise": 0.43207672238349915,
+      "Caw": 0.2875444293022156,
+      "Duck": 0.28677237033843994,
+      "Outside, rural or natural": 0.2720065414905548,
+      "Bow-wow": 0.26253020763397217
+    },
+    "esc50": {
+      "chirping_birds": 0.832781970500946,
+      "crow": 0.46875250339508057,
+      "dog": 0.5784014463424683,
+      "insects": 0.4560679793357849,
+      "rain": 0.6713414192199707,
+      "train": 0.6713414192199707
+    }
+  },
+  "rural_farm/514550_Countryside_Ambience_Spring.wav": {
+    "audioset": {
+      "Environmental noise": 0.7446788549423218,
+      "Bird vocalization, bird call, bird song": 0.5764754414558411,
+      "Bird": 0.5572308897972107,
+      "Chirp, tweet": 0.3907192647457123,
+      "Animal": 0.3356085419654846
+    },
+    "esc50": {
+      "chirping_birds": 0.5764754414558411
+    }
+  },
+  "rural_farm/573010_Rural_ambience_with_seawash_in_background_Kimolos_Monastiria.wav": {
+    "audioset": {},
+    "esc50": {}
+  },
+  "rural_farm/587721_Roca_Partida_Mountain_Morning_-_Distant_Village.wav.wav": {
+    "audioset": {
+      "Animal": 0.5326575040817261,
+      "Goose": 0.4668004810810089,
+      "Fowl": 0.4586014747619629,
+      "Bird": 0.37922990322113037,
+      "Turkey": 0.3767990469932556,
+      "Bird vocalization, bird call, bird song": 0.33303672075271606,
+      "Honk": 0.3252623975276947,
+      "Cricket": 0.3166571855545044,
+      "Insect": 0.30716919898986816
+    },
+    "esc50": {
+      "chirping_birds": 0.37922990322113037,
+      "crickets": 0.3166571855545044,
+      "insects": 0.30716919898986816
+    }
+  },
+  "rural_farm/638200_night_cricket_with_rain.wav.wav": {
+    "audioset": {
+      "Raindrop": 0.5088903307914734,
+      "Cricket": 0.4432794153690338,
+      "Music": 0.35974442958831787,
+      "Frog": 0.31347084045410156
+    },
+    "esc50": {
+      "crickets": 0.4432794153690338,
+      "frog": 0.31347084045410156,
+      "rain": 0.5088903307914734
+    }
+  },
+  "rural_farm/689101_VEHBy_Cars_Pass_By_On_An_Asphalt_Rural_Road_5_EM.wav.wav": {
+    "audioset": {
+      "Vehicle": 0.7981448769569397,
+      "Field recording": 0.6526784300804138,
+      "Outside, urban or manmade": 0.2717123031616211,
+      "Car": 0.26354527473449707
+    },
+    "esc50": {}
+  },
+  "rural_farm/69648_Farmyard_Ambience_Revisited.wav.wav": {
+    "audioset": {
+      "Cattle, bovinae": 0.848365306854248,
+      "Moo": 0.8325695991516113,
+      "Bird": 0.8314626216888428,
+      "Bird vocalization, bird call, bird song": 0.8083162903785706,
+      "Chirp, tweet": 0.80705726146698,
+      "Livestock, farm animals, working animals": 0.7368097901344299,
+      "Environmental noise": 0.6494113206863403,
+      "Sheep": 0.5003136396408081,
+      "Animal": 0.44578105211257935,
+      "Domestic animals, pets": 0.39874106645584106,
+      "Music": 0.2756022810935974,
+      "Speech": 0.2669408619403839
+    },
+    "esc50": {
+      "cat": 0.848365306854248,
+      "chirping_birds": 0.8314626216888428,
+      "cow": 0.8325695991516113,
+      "sheep": 0.5003136396408081
+    }
+  },
+  "rural_farm/707883_Outside_Rural_Ambience.wav": {
+    "audioset": {
+      "Mouse": 0.5527880191802979,
+      "Speech": 0.28226470947265625,
+      "Bird": 0.2500515580177307
+    },
+    "esc50": {
+      "chirping_birds": 0.2500515580177307,
+      "mouse_click": 0.5527880191802979
+    }
+  },
+  "rural_farm/752248_AMBIENCE-EXTERIOR-EVENING-FRIAS_EBRO_RIVER-MEDIUM-STREAM-FAR-4824-01.wav": {
+    "audioset": {
+      "Rustle": 0.32214751839637756,
+      "Pink noise": 0.28573596477508545
+    },
+    "esc50": {}
+  },
+  "rural_farm/831451_AMBRurl_Night_Ambience_Rural_Portugal_Crickets_Dogs_barking_brown_Owl.wav": {
+    "audioset": {
+      "Cricket": 0.6009170413017273,
+      "Insect": 0.5489516258239746
+    },
+    "esc50": {
+      "crickets": 0.6009170413017273,
+      "insects": 0.5489516258239746
+    }
+  },
+  "transport_industrial/263580_Nuernberg_U-bahn.wav.wav": {
+    "audioset": {
+      "Train": 0.726263701915741,
+      "Speech": 0.6611141562461853,
+      "Vehicle": 0.610044538974762,
+      "Subway, metro, underground": 0.5722221732139587,
+      "Rail transport": 0.5245701670646667,
+      "Railroad car, train wagon": 0.5165459513664246,
+      "Cupboard open or close": 0.4058992862701416,
+      "Music": 0.3541337847709656,
+      "Guitar": 0.2747843861579895
+    },
+    "esc50": {
+      "rain": 0.726263701915741,
+      "train": 0.726263701915741
+    }
+  },
+  "transport_industrial/320458_Inside_a_crowded_subway_metro_in_Vienna_Austria.mp3": {
+    "audioset": {
+      "Train": 0.9289596676826477,
+      "Subway, metro, underground": 0.872879147529602,
+      "Rail transport": 0.8429293632507324,
+      "Railroad car, train wagon": 0.8058728575706482,
+      "Train wheels squealing": 0.7755734920501709,
+      "Speech": 0.764318585395813,
+      "Vehicle": 0.4497964382171631,
+      "Owl": 0.4187599718570709,
+      "Animal": 0.35439521074295044,
+      "Bus": 0.33610543608665466,
+      "Clickety-clack": 0.29398253560066223,
+      "Music": 0.2821563482284546,
+      "Sliding door": 0.26204219460487366
+    },
+    "esc50": {
+      "door_wood_creaks": 0.26204219460487366,
+      "door_wood_knock": 0.26204219460487366,
+      "mouse_click": 0.29398253560066223,
+      "rain": 0.9289596676826477,
+      "train": 0.9289596676826477
+    }
+  },
+  "transport_industrial/326146_Inside_Car_Ambience_Next_to_School_More_Quiet_Version.wav.wav": {
+    "audioset": {
+      "Silence": 0.852668046951294,
+      "Owl": 0.47806915640830994,
+      "Music": 0.4260520935058594,
+      "Singing bowl": 0.41093888878822327
+    },
+    "esc50": {}
+  },
+  "transport_industrial/383453_Driving_ambience.wav": {
+    "audioset": {
+      "Field recording": 0.8228850364685059,
+      "Vehicle": 0.6731081604957581,
+      "Fixed-wing aircraft, airplane": 0.3858519494533539,
+      "Aircraft": 0.3793926537036896,
+      "Traffic noise, roadway noise": 0.2906069755554199
+    },
+    "esc50": {
+      "airplane": 0.3858519494533539
+    }
+  },
+  "transport_industrial/540140_Car_Interior_Ambience.wav.wav": {
+    "audioset": {
+      "Vehicle": 0.7430534362792969,
+      "Rumble": 0.5603585243225098,
+      "Field recording": 0.522937536239624,
+      "Car": 0.5205760598182678,
+      "Fixed-wing aircraft, airplane": 0.4508913457393646,
+      "Aircraft": 0.4241742491722107
+    },
+    "esc50": {
+      "airplane": 0.4508913457393646
+    }
+  },
+  "transport_industrial/608157_Street_People_Cars_City_Fantasy_Traffic_Noise_Ambience_Atmosphere_-_Mastered_Surround.wav.wav": {
+    "audioset": {
+      "Vehicle": 0.5916749835014343,
+      "Train": 0.5914998054504395,
+      "Rail transport": 0.5270975828170776,
+      "Railroad car, train wagon": 0.4885723888874054,
+      "Speech": 0.3548566401004791,
+      "Traffic noise, roadway noise": 0.3361746072769165,
+      "Car": 0.33016300201416016,
+      "Field recording": 0.27210870385169983
+    },
+    "esc50": {
+      "rain": 0.5914998054504395,
+      "train": 0.5914998054504395
+    }
+  },
+  "transport_industrial/608158_Street_People_Cars_City_Fantasy_Traffic_Noise_Ambience_Atmosphere_-_Mastered_ST.wav.wav": {
+    "audioset": {
+      "Vehicle": 0.7394238114356995,
+      "Traffic noise, roadway noise": 0.6276177167892456,
+      "Train": 0.5484638810157776,
+      "Railroad car, train wagon": 0.42251551151275635,
+      "Car": 0.4151104986667633,
+      "Rail transport": 0.3935052752494812,
+      "Field recording": 0.3734476566314697,
+      "Motor vehicle (road)": 0.27913644909858704,
+      "Ship": 0.27494946122169495
+    },
+    "esc50": {
+      "engine": 0.27913644909858704,
+      "rain": 0.5484638810157776,
+      "train": 0.5484638810157776
+    }
+  },
+  "transport_industrial/703104_F16_fighter_and_Hecules_C-130H_3.57PM_230914_0620.wav": {
+    "audioset": {
+      "Field recording": 0.8336849212646484,
+      "Vehicle": 0.6253186464309692,
+      "Fixed-wing aircraft, airplane": 0.48275235295295715,
+      "Aircraft": 0.4651699960231781,
+      "Rumble": 0.4218428432941437,
+      "Animal": 0.3845210373401642,
+      "Purr": 0.3051914572715759,
+      "Eruption": 0.2661024332046509,
+      "Domestic animals, pets": 0.2620791494846344
+    },
+    "esc50": {
+      "airplane": 0.48275235295295715,
+      "cat": 0.3051914572715759
+    }
+  },
+  "transport_industrial/712009_Bus_Ride.m4a": {
+    "audioset": {
+      "Vehicle": 0.7857884764671326,
+      "Bus": 0.6261033415794373,
+      "Speech": 0.5857682824134827,
+      "Rumble": 0.38681766390800476,
+      "Reversing beeps": 0.3483583927154541,
+      "Train": 0.34378692507743835,
+      "Field recording": 0.33518677949905396,
+      "Car": 0.28319329023361206,
+      "Aircraft": 0.274314820766449,
+      "Subway, metro, underground": 0.2658408582210541
+    },
+    "esc50": {
+      "airplane": 0.274314820766449,
+      "rain": 0.34378692507743835,
+      "train": 0.34378692507743835
+    }
+  },
+  "transport_industrial/723833_Bus_Interior_Commuting_Hong_Kong.wav": {
+    "audioset": {
+      "Speech": 0.6371204853057861,
+      "Reversing beeps": 0.6241666078567505,
+      "Vehicle": 0.6210274696350098,
+      "Cupboard open or close": 0.4988800287246704,
+      "Arrow": 0.3911510705947876,
+      "Music": 0.36515939235687256,
+      "Bus": 0.27052703499794006
+    },
+    "esc50": {}
+  },
+  "transport_industrial/728755_Car_Park_Ambience_1.wav": {
+    "audioset": {
+      "Train": 0.798523485660553,
+      "Railroad car, train wagon": 0.7520390748977661,
+      "Vehicle": 0.7219856977462769,
+      "Rail transport": 0.7089323401451111,
+      "Traffic noise, roadway noise": 0.5940790176391602,
+      "Train wheels squealing": 0.46699661016464233,
+      "Fixed-wing aircraft, airplane": 0.32242467999458313,
+      "Aircraft": 0.2567136585712433
+    },
+    "esc50": {
+      "airplane": 0.32242467999458313,
+      "rain": 0.798523485660553,
+      "train": 0.798523485660553
+    }
+  },
+  "transport_industrial/731241_AMB-Road_Car_Truck_Bike_People-Jawalakhel_Nepal-14Jul2023_12h15.wav": {
+    "audioset": {
+      "Speech": 0.8505723476409912,
+      "Vehicle": 0.707025945186615,
+      "Clip-clop": 0.5336249470710754,
+      "Traffic noise, roadway noise": 0.48639655113220215,
+      "Animal": 0.47022727131843567,
+      "Horse": 0.4299795925617218,
+      "Motorcycle": 0.3235725462436676,
+      "Car": 0.3147478401660919,
+      "Toot": 0.2832852005958557
+    },
+    "esc50": {
+      "engine": 0.3235725462436676
+    }
+  },
+  "transport_industrial/737974_Train_Ride_Sound.mp3": {
+    "audioset": {
+      "Train": 0.9552881717681885,
+      "Railroad car, train wagon": 0.859682023525238,
+      "Rail transport": 0.8546749949455261,
+      "Clickety-clack": 0.5625232458114624,
+      "Vehicle": 0.49224528670310974
+    },
+    "esc50": {
+      "mouse_click": 0.5625232458114624,
+      "rain": 0.9552881717681885,
+      "train": 0.9552881717681885
+    }
+  },
+  "transport_industrial/795464_Street_Ambience_Geneva_Switzerland.mp3": {
+    "audioset": {
+      "Field recording": 0.7569298148155212,
+      "Vehicle": 0.6940107345581055,
+      "Car": 0.4016786813735962,
+      "Rumble": 0.37436309456825256,
+      "Bird": 0.33707740902900696,
+      "Bus": 0.3329111933708191,
+      "Traffic noise, roadway noise": 0.3069823980331421,
+      "Train": 0.296745628118515
+    },
+    "esc50": {
+      "chirping_birds": 0.33707740902900696,
+      "rain": 0.296745628118515,
+      "train": 0.296745628118515
+    }
+  },
+  "transport_industrial/802498_Busy_Street_Day_Buses_Cars_2OA_-_Spatial_Audio.wav": {
+    "audioset": {
+      "Speech": 0.799157440662384,
+      "Vehicle": 0.5928558707237244,
+      "Music": 0.39557501673698425,
+      "Car": 0.25884926319122314
+    },
+    "esc50": {}
+  },
+  "transport_industrial/804933_60-70s_Bus_Engine.wav": {
+    "audioset": {
+      "Vehicle": 0.699724555015564,
+      "Train": 0.30181124806404114,
+      "Railroad car, train wagon": 0.2521020472049713
+    },
+    "esc50": {
+      "rain": 0.30181124806404114,
+      "train": 0.30181124806404114
+    }
+  },
+  "transport_industrial/820115_20250813_1541_Terminus.mp3": {
+    "audioset": {
+      "Cat": 0.8054625391960144,
+      "Meow": 0.7397122979164124,
+      "Speech": 0.6792232394218445,
+      "Vehicle": 0.6147250533103943,
+      "Animal": 0.6003676652908325,
+      "Domestic animals, pets": 0.5860873460769653,
+      "Traffic noise, roadway noise": 0.4698185324668884,
+      "Bus": 0.38837930560112,
+      "Air brake": 0.2722839117050171
+    },
+    "esc50": {
+      "cat": 0.8054625391960144
+    }
+  },
+  "transport_industrial/835507_Vienna_U6_Metro_Onboard_Platform_Ambience_Michelbeuern_W_hringerstra_e.m4a": {
+    "audioset": {
+      "Train": 0.956046462059021,
+      "Rail transport": 0.881283700466156,
+      "Subway, metro, underground": 0.8556333780288696,
+      "Railroad car, train wagon": 0.8278610110282898,
+      "Speech": 0.6094997525215149,
+      "Sliding door": 0.5126940608024597,
+      "Vehicle": 0.4568488299846649,
+      "Clickety-clack": 0.3833385407924652
+    },
+    "esc50": {
+      "door_wood_creaks": 0.5126940608024597,
+      "door_wood_knock": 0.5126940608024597,
+      "mouse_click": 0.3833385407924652,
+      "rain": 0.956046462059021,
+      "train": 0.956046462059021
+    }
+  },
+  "transport_industrial/855011_Grenzallee_Ubahn_MetroStation_Ambience_and_Arrival_2.aiff": {
+    "audioset": {
+      "Train": 0.8841514587402344,
+      "Rail transport": 0.8122361898422241,
+      "Railroad car, train wagon": 0.8009681105613708,
+      "Speech": 0.7889916300773621,
+      "Subway, metro, underground": 0.7398084998130798,
+      "Sliding door": 0.44984909892082214,
+      "Vehicle": 0.4070650339126587
+    },
+    "esc50": {
+      "door_wood_creaks": 0.44984909892082214,
+      "door_wood_knock": 0.44984909892082214,
+      "rain": 0.8841514587402344,
+      "train": 0.8841514587402344
+    }
+  },
+  "urban_suburban_outdoors/130127_City_Ambience_Crowd_Singing.aif.aiff": {
+    "audioset": {
+      "Vehicle": 0.6522488594055176,
+      "Traffic noise, roadway noise": 0.40662863850593567,
+      "Siren": 0.32044360041618347,
+      "Train": 0.3084314167499542,
+      "Emergency vehicle": 0.2935897707939148,
+      "Rail transport": 0.2846236228942871,
+      "Railroad car, train wagon": 0.2530590891838074
+    },
+    "esc50": {
+      "rain": 0.3084314167499542,
+      "siren": 0.32044360041618347,
+      "train": 0.3084314167499542
+    }
+  },
+  "urban_suburban_outdoors/164213_Morning_Ambience_city.wav": {
+    "audioset": {
+      "Bird": 0.5645727515220642,
+      "Chirp, tweet": 0.5398654341697693,
+      "Bird vocalization, bird call, bird song": 0.4364413917064667,
+      "Vehicle": 0.27196282148361206
+    },
+    "esc50": {
+      "chirping_birds": 0.5645727515220642
+    }
+  },
+  "urban_suburban_outdoors/172780_small_city_streamlet_atmos_121230_01.wav.wav": {
+    "audioset": {
+      "Tick-tock": 0.8323711156845093,
+      "Tick": 0.6570224761962891,
+      "Speech": 0.4878915846347809,
+      "Animal": 0.39154547452926636,
+      "Domestic animals, pets": 0.33467695116996765
+    },
+    "esc50": {
+      "clock_tick": 0.8323711156845093
+    }
+  },
+  "urban_suburban_outdoors/251940_Dry_leaves_fall-City141019_0446.wav.wav": {
+    "audioset": {
+      "Speech": 0.7002199292182922,
+      "Rain": 0.5912030935287476,
+      "Fire": 0.5227929949760437,
+      "Bird": 0.51468425989151,
+      "Rain on surface": 0.5136158466339111,
+      "Raindrop": 0.5077204704284668,
+      "Pigeon, dove": 0.34003251791000366
+    },
+    "esc50": {
+      "chirping_birds": 0.51468425989151,
+      "crackling_fire": 0.5227929949760437,
+      "pig": 0.34003251791000366,
+      "rain": 0.5912030935287476,
+      "sea_waves": 0.5136158466339111
+    }
+  },
+  "urban_suburban_outdoors/276920_05831_alarm_siren_city_ambience.wav.wav": {
+    "audioset": {
+      "Civil defense siren": 0.9211292266845703,
+      "Siren": 0.9083346128463745,
+      "Shofar": 0.6207037568092346,
+      "Wind instrument, woodwind instrument": 0.5945451855659485,
+      "Bird": 0.2524448037147522
+    },
+    "esc50": {
+      "chirping_birds": 0.2524448037147522,
+      "siren": 0.9211292266845703,
+      "wind": 0.5945451855659485
+    }
+  },
+  "urban_suburban_outdoors/360777_Ambience_inner_city_traffic.wav.wav": {
+    "audioset": {
+      "Thunderstorm": 0.6536762118339539,
+      "Vehicle": 0.5978342890739441,
+      "Thunder": 0.5939651727676392,
+      "Rain": 0.5315059423446655,
+      "Train": 0.5095827579498291,
+      "Car": 0.42525097727775574,
+      "Traffic noise, roadway noise": 0.40016013383865356,
+      "Field recording": 0.3898797631263733,
+      "Bee, wasp, etc.": 0.34441450238227844,
+      "Rail transport": 0.34017518162727356,
+      "Raindrop": 0.3371663987636566,
+      "Railroad car, train wagon": 0.28520432114601135
+    },
+    "esc50": {
+      "rain": 0.5315059423446655,
+      "thunderstorm": 0.6536762118339539,
+      "train": 0.5095827579498291
+    }
+  },
+  "urban_suburban_outdoors/387313_City_Ambience_Exterior_Cars_Passing_By_unedited_.wav.wav": {
+    "audioset": {
+      "Vehicle": 0.7315519452095032,
+      "Traffic noise, roadway noise": 0.5405038595199585,
+      "Field recording": 0.46812692284584045,
+      "Bird": 0.3625771999359131,
+      "Chink, clink": 0.33139458298683167,
+      "Car": 0.30258357524871826,
+      "Arrow": 0.29446592926979065,
+      "Fixed-wing aircraft, airplane": 0.2757996618747711,
+      "Train": 0.2542372941970825,
+      "Glass": 0.25091397762298584
+    },
+    "esc50": {
+      "airplane": 0.2757996618747711,
+      "chirping_birds": 0.3625771999359131,
+      "glass_breaking": 0.25091397762298584,
+      "rain": 0.2542372941970825,
+      "train": 0.2542372941970825
+    }
+  },
+  "urban_suburban_outdoors/393701_City_ambience_-_Berlin.flac": {
+    "audioset": {
+      "Vehicle": 0.6526925563812256,
+      "Speech": 0.6446820497512817,
+      "Traffic noise, roadway noise": 0.5809400677680969,
+      "Children playing": 0.5260441899299622,
+      "Bird": 0.5239920020103455,
+      "Chirp, tweet": 0.26088616251945496,
+      "Bird vocalization, bird call, bird song": 0.2524033784866333
+    },
+    "esc50": {
+      "chirping_birds": 0.5239920020103455
+    }
+  },
+  "urban_suburban_outdoors/465785_Windy_city_ambience_with_water_and_church_bell_48khz_24bit.wav": {
+    "audioset": {
+      "Ocean": 0.5287211537361145,
+      "Duck": 0.5256325006484985,
+      "Quack": 0.4755745530128479,
+      "Vehicle": 0.4677978456020355,
+      "Waves, surf": 0.461220383644104,
+      "Animal": 0.27888765931129456
+    },
+    "esc50": {
+      "sea_waves": 0.5287211537361145
+    }
+  },
+  "urban_suburban_outdoors/476309_calm_down_town_ambience_NL_190610_0024.ogg.ogg": {
+    "audioset": {
+      "Speech": 0.8616361021995544,
+      "Clip-clop": 0.8384658694267273,
+      "Crow": 0.7825602889060974,
+      "Horse": 0.6976953744888306,
+      "Caw": 0.6762069463729858,
+      "Animal": 0.6179386973381042,
+      "Music": 0.42263567447662354,
+      "Bird": 0.4107101261615753,
+      "Snort": 0.39420440793037415
+    },
+    "esc50": {
+      "chirping_birds": 0.4107101261615753,
+      "crow": 0.7825602889060974
+    }
+  },
+  "urban_suburban_outdoors/488058_Ambience_City_Crickets_02.wav.wav": {
+    "audioset": {
+      "Cricket": 0.7848110198974609,
+      "Insect": 0.6758913397789001
+    },
+    "esc50": {
+      "crickets": 0.7848110198974609,
+      "insects": 0.6758913397789001
+    }
+  },
+  "urban_suburban_outdoors/512282_Old_City_Ambience.wav": {
+    "audioset": {
+      "Bird": 0.6282974481582642,
+      "Bird vocalization, bird call, bird song": 0.5906147956848145,
+      "Chirp, tweet": 0.515174388885498,
+      "Speech": 0.47516587376594543,
+      "Environmental noise": 0.41533124446868896,
+      "Church bell": 0.4150078296661377,
+      "Animal": 0.32626664638519287
+    },
+    "esc50": {
+      "chirping_birds": 0.6282974481582642,
+      "church_bells": 0.4150078296661377
+    }
+  },
+  "urban_suburban_outdoors/513209_City_ambience_Miradouro_de_S_o_Pedro_de_Alc_ntara_Lisbon_Portugal_take_3.wav": {
+    "audioset": {
+      "Speech": 0.782903254032135,
+      "Field recording": 0.6935670375823975,
+      "Train": 0.5940647125244141,
+      "Rail transport": 0.5213223099708557,
+      "Railroad car, train wagon": 0.48264575004577637,
+      "Vehicle": 0.4759010672569275,
+      "Bird": 0.45236483216285706,
+      "Traffic noise, roadway noise": 0.377687007188797,
+      "Music": 0.33449631929397583,
+      "Ship": 0.2765157222747803,
+      "Pigeon, dove": 0.25764524936676025
+    },
+    "esc50": {
+      "chirping_birds": 0.45236483216285706,
+      "pig": 0.25764524936676025,
+      "rain": 0.5940647125244141,
+      "train": 0.5940647125244141
+    }
+  },
+  "urban_suburban_outdoors/532696_City_street_ambience_with_construction.wav.wav": {
+    "audioset": {
+      "Vehicle": 0.6940798163414001,
+      "Speech": 0.5866221189498901,
+      "Power tool": 0.3480182886123657,
+      "Bus": 0.3088110387325287,
+      "Traffic noise, roadway noise": 0.30005303025245667
+    },
+    "esc50": {}
+  },
+  "urban_suburban_outdoors/586877_restaurant_ambience_ext_comercial_center_heron_city_barcelona.wav": {
+    "audioset": {
+      "Speech": 0.8307868242263794,
+      "Chatter": 0.6553046107292175,
+      "Music": 0.6509193778038025,
+      "Animal": 0.35447436571121216
+    },
+    "esc50": {}
+  },
+  "urban_suburban_outdoors/622736_AMBCnst_Ambience_jackhammer_on_street_recorded_from_5th_floor_balcony_in_Sao_Paulo_Brazil.wav": {
+    "audioset": {
+      "Jackhammer": 0.8224658370018005,
+      "Sewing machine": 0.5706891417503357,
+      "Vehicle": 0.3499287962913513,
+      "Engine": 0.26584962010383606,
+      "Music": 0.2657402455806732
+    },
+    "esc50": {
+      "engine": 0.26584962010383606
+    }
+  },
+  "urban_suburban_outdoors/669171_City_Park_Ambience_-_Berlin_Spring_-_With_Birds_Cars_and_Planes_-_Part_II.wav.wav": {
+    "audioset": {
+      "Bird": 0.4715189039707184,
+      "Vehicle": 0.46707820892333984,
+      "Bird vocalization, bird call, bird song": 0.46218714118003845,
+      "Environmental noise": 0.45078811049461365,
+      "Chirp, tweet": 0.35446903109550476,
+      "Field recording": 0.3441125750541687
+    },
+    "esc50": {
+      "chirping_birds": 0.4715189039707184
+    }
+  },
+  "urban_suburban_outdoors/723607_Ciudad_de_Mexico_DF_Colonia_Roma_Busy_Street_traffic_urban_city_ambience_Ed_Larez_VSNR.wav": {
+    "audioset": {
+      "Vehicle": 0.5469781756401062,
+      "Field recording": 0.2670307159423828,
+      "Car": 0.26005634665489197
+    },
+    "esc50": {}
+  },
+  "urban_suburban_outdoors/851386_Courtyard_ambience_with_pigeons_and_city_sounds_in_spring.wav": {
+    "audioset": {
+      "Crow": 0.8678125739097595,
+      "Caw": 0.8219031095504761,
+      "Bird": 0.6838356256484985,
+      "Environmental noise": 0.5648005604743958,
+      "Speech": 0.5128963589668274,
+      "Bird vocalization, bird call, bird song": 0.4980720281600952,
+      "Chirp, tweet": 0.48618367314338684,
+      "Vehicle": 0.29840391874313354
+    },
+    "esc50": {
+      "chirping_birds": 0.6838356256484985,
+      "crow": 0.8678125739097595
+    }
+  },
+  "waterside_coastal/254125_Harbor_Ambience_1.wav": {
+    "audioset": {
+      "Crow": 0.8787583708763123,
+      "Caw": 0.8748685717582703,
+      "Animal": 0.5892845392227173,
+      "Speech": 0.5869832038879395,
+      "Tick-tock": 0.2529160678386688
+    },
+    "esc50": {
+      "clock_tick": 0.2529160678386688,
+      "crow": 0.8787583708763123
+    }
+  },
+  "waterside_coastal/392664_Ambience_EXT_night_subcity_from_balcony_distant_traffic_and_container_harbor_port_lisbon_portugal_xa.flac": {
+    "audioset": {
+      "Vehicle": 0.524357259273529,
+      "Door": 0.3140377700328827,
+      "Sliding door": 0.3011312484741211,
+      "Silence": 0.261089026927948
+    },
+    "esc50": {
+      "door_wood_creaks": 0.3140377700328827,
+      "door_wood_knock": 0.3140377700328827
+    }
+  },
+  "waterside_coastal/406331_wayside_at_harbor.wav": {
+    "audioset": {
+      "Speech": 0.8014549612998962,
+      "Vehicle": 0.5146656036376953,
+      "Animal": 0.39554911851882935,
+      "Walk, footsteps": 0.32785576581954956,
+      "Bicycle": 0.3081676959991455,
+      "Boat, Water vehicle": 0.3080575168132782,
+      "Wind noise (microphone)": 0.283650279045105,
+      "Ship": 0.27162468433380127
+    },
+    "esc50": {
+      "footsteps": 0.32785576581954956,
+      "pouring_water": 0.3080575168132782,
+      "wind": 0.283650279045105
+    }
+  },
+  "waterside_coastal/406332_brisk_wayside_at_harbor.wav": {
+    "audioset": {
+      "Boat, Water vehicle": 0.7363359332084656,
+      "Vehicle": 0.6052290797233582,
+      "Speech": 0.5712845921516418,
+      "Field recording": 0.5546200275421143,
+      "Ship": 0.5488787293434143,
+      "Aircraft": 0.5402995944023132,
+      "Fixed-wing aircraft, airplane": 0.5313878059387207,
+      "Wind noise (microphone)": 0.35984697937965393,
+      "Ocean": 0.3075845539569855,
+      "Wind": 0.30508753657341003,
+      "Animal": 0.27744412422180176,
+      "Motorboat, speedboat": 0.2613886892795563,
+      "Eruption": 0.2568868100643158
+    },
+    "esc50": {
+      "airplane": 0.5402995944023132,
+      "engine": 0.2613886892795563,
+      "pouring_water": 0.7363359332084656,
+      "sea_waves": 0.3075845539569855,
+      "wind": 0.35984697937965393
+    }
+  },
+  "waterside_coastal/413334_Baltimore_Harbor_with_Distant_Industrial_Ambience.wav": {
+    "audioset": {
+      "Vehicle": 0.6232895255088806,
+      "Reversing beeps": 0.5252549648284912,
+      "Field recording": 0.49899739027023315,
+      "Boat, Water vehicle": 0.38728874921798706
+    },
+    "esc50": {
+      "pouring_water": 0.38728874921798706
+    }
+  },
+  "waterside_coastal/449021_Waves_on_quay_1.wav": {
+    "audioset": {
+      "Ocean": 0.8474739193916321,
+      "Waves, surf": 0.7902960181236267,
+      "Boat, Water vehicle": 0.5897656083106995,
+      "Wind": 0.5215675234794617,
+      "Wind noise (microphone)": 0.3815579116344452,
+      "Sailboat, sailing ship": 0.29102498292922974
+    },
+    "esc50": {
+      "pouring_water": 0.5897656083106995,
+      "sea_waves": 0.8474739193916321,
+      "wind": 0.5215675234794617
+    }
+  },
+  "waterside_coastal/492170_light_industrial_harbor_ambience.wav": {
+    "audioset": {
+      "Speech": 0.7413502335548401,
+      "Vehicle": 0.5648403763771057,
+      "Boat, Water vehicle": 0.4726170301437378,
+      "Fowl": 0.35641568899154663,
+      "Honk": 0.2630263566970825,
+      "Whale vocalization": 0.2618100047111511
+    },
+    "esc50": {
+      "pouring_water": 0.4726170301437378
+    }
+  },
+  "waterside_coastal/501340_Harbor_during_the_night_Valparaiso_Chile.wav": {
+    "audioset": {
+      "Cat": 0.8037675023078918,
+      "Domestic animals, pets": 0.7753965258598328,
+      "Vehicle": 0.7673283219337463,
+      "Animal": 0.7592335939407349,
+      "Field recording": 0.7478342652320862,
+      "Meow": 0.556189239025116,
+      "Train": 0.5350276231765747,
+      "Aircraft": 0.5341694951057434,
+      "Toot": 0.5165405869483948,
+      "Dog": 0.5095506310462952,
+      "Helicopter": 0.5032072067260742,
+      "Bow-wow": 0.48914992809295654,
+      "Vehicle horn, car horn, honking": 0.45733895897865295,
+      "Railroad car, train wagon": 0.4542117118835449,
+      "Rail transport": 0.4322664141654968,
+      "Ship": 0.4065001904964447,
+      "Reversing beeps": 0.37286970019340515,
+      "Speech": 0.35426661372184753,
+      "Music": 0.3534514009952545,
+      "Foghorn": 0.3445459306240082,
+      "Subway, metro, underground": 0.3435473144054413,
+      "Caterwaul": 0.28448575735092163,
+      "Outside, urban or manmade": 0.27123183012008667,
+      "Eruption": 0.2617037892341614
+    },
+    "esc50": {
+      "airplane": 0.5341694951057434,
+      "car_horn": 0.45733895897865295,
+      "cat": 0.8037675023078918,
+      "dog": 0.5095506310462952,
+      "helicopter": 0.5032072067260742,
+      "rain": 0.5350276231765747,
+      "train": 0.5350276231765747
+    }
+  },
+  "waterside_coastal/536998_industrial_river_005_200708_0196.wav.wav": {
+    "audioset": {
+      "Boat, Water vehicle": 0.7302073240280151,
+      "Speech": 0.49622681736946106,
+      "Ship": 0.4795077443122864,
+      "Vehicle": 0.47102728486061096,
+      "Wind": 0.297376811504364,
+      "Wind noise (microphone)": 0.28905683755874634,
+      "Ocean": 0.2760465443134308
+    },
+    "esc50": {
+      "pouring_water": 0.7302073240280151,
+      "sea_waves": 0.2760465443134308,
+      "wind": 0.297376811504364
+    }
+  },
+  "waterside_coastal/558959_Ambience_Lisboa_Center_Daytime_4824_02.wav.wav": {
+    "audioset": {
+      "Speech": 0.5614468455314636,
+      "Silence": 0.2591325044631958
+    },
+    "esc50": {}
+  },
+  "waterside_coastal/568196_harbour_pilots_vessel_waves_190604_0013.wav.wav": {
+    "audioset": {
+      "Ocean": 0.8648366928100586,
+      "Waves, surf": 0.8054437637329102,
+      "Boat, Water vehicle": 0.7202737927436829,
+      "Vehicle": 0.7029948830604553,
+      "Wind": 0.5585162043571472,
+      "Aircraft": 0.5461065769195557,
+      "Fixed-wing aircraft, airplane": 0.4461026191711426,
+      "Wind noise (microphone)": 0.4310506582260132,
+      "Ship": 0.3520878851413727,
+      "Sailboat, sailing ship": 0.27859723567962646,
+      "Field recording": 0.27495259046554565
+    },
+    "esc50": {
+      "airplane": 0.5461065769195557,
+      "pouring_water": 0.7202737927436829,
+      "sea_waves": 0.8648366928100586,
+      "wind": 0.5585162043571472
+    }
+  },
+  "waterside_coastal/587290_river_marina_1.32PM_210906_0314.wav.wav": {
+    "audioset": {
+      "Crow": 0.8602297902107239,
+      "Caw": 0.8343161344528198,
+      "Duck": 0.6712872385978699,
+      "Quack": 0.5497937798500061,
+      "Animal": 0.37621769309043884,
+      "Bird": 0.3667694926261902,
+      "Vehicle": 0.3510151505470276,
+      "Speech": 0.33283132314682007
+    },
+    "esc50": {
+      "chirping_birds": 0.3667694926261902,
+      "crow": 0.8602297902107239
+    }
+  },
+  "waterside_coastal/614887_Small_Greek_Harbour_Far.wav": {
+    "audioset": {
+      "Speech": 0.6875386238098145,
+      "Ocean": 0.4639635682106018,
+      "Vehicle": 0.4353162348270416,
+      "Boat, Water vehicle": 0.430500864982605,
+      "Wind": 0.3973134458065033,
+      "Fire": 0.3922923505306244,
+      "Waves, surf": 0.391828715801239,
+      "Ship": 0.33179667592048645,
+      "Wind noise (microphone)": 0.31457021832466125
+    },
+    "esc50": {
+      "crackling_fire": 0.3922923505306244,
+      "pouring_water": 0.430500864982605,
+      "sea_waves": 0.4639635682106018,
+      "wind": 0.3973134458065033
+    }
+  },
+  "waterside_coastal/636556_harbor-ambiance.WAV.wav": {
+    "audioset": {
+      "Boat, Water vehicle": 0.7912270426750183,
+      "Speech": 0.5491842031478882,
+      "Vehicle": 0.4344198703765869,
+      "Honk": 0.38711482286453247,
+      "Goose": 0.3869430422782898,
+      "Fowl": 0.35697615146636963,
+      "Rowboat, canoe, kayak": 0.3022032380104065,
+      "Ocean": 0.28268197178840637,
+      "Sailboat, sailing ship": 0.2723820209503174,
+      "Waves, surf": 0.25213733315467834
+    },
+    "esc50": {
+      "pouring_water": 0.7912270426750183,
+      "sea_waves": 0.28268197178840637
+    }
+  },
+  "waterside_coastal/672693_Small_metal_bridge_creaking_and_squeaking_as_it_moves_up_and_down.wav.wav": {
+    "audioset": {
+      "Mechanisms": 0.872306764125824,
+      "Music": 0.38390111923217773,
+      "Gears": 0.3829972743988037,
+      "Creak": 0.362962543964386,
+      "Livestock, farm animals, working animals": 0.3568410575389862,
+      "Pulleys": 0.3352578282356262,
+      "Glass": 0.28927308320999146,
+      "Coin (dropping)": 0.27669814229011536
+    },
+    "esc50": {
+      "door_wood_creaks": 0.362962543964386,
+      "glass_breaking": 0.28927308320999146
+    }
+  },
+  "waterside_coastal/684345_breakwater_waves_river_1147_220802_0472.wav": {
+    "audioset": {
+      "Boat, Water vehicle": 0.7603932619094849,
+      "Vehicle": 0.5225703120231628
+    },
+    "esc50": {
+      "pouring_water": 0.7603932619094849
+    }
+  },
+  "waterside_coastal/731719_Abandoned_harbor_atmosphere.wav": {
+    "audioset": {
+      "Field recording": 0.5204256176948547,
+      "Vehicle": 0.4843471646308899,
+      "Speech": 0.44415631890296936,
+      "Caw": 0.4073322117328644,
+      "Crow": 0.3972093462944031,
+      "Animal": 0.3941700756549835,
+      "Duck": 0.2879078686237335,
+      "Outside, rural or natural": 0.2641450762748718
+    },
+    "esc50": {
+      "crow": 0.4073322117328644
+    }
+  },
+  "waterside_coastal/770752_harbor_breakwater_Moerdijk_1110_AM_240729_0853.ogg": {
+    "audioset": {
+      "Boat, Water vehicle": 0.7099484205245972,
+      "Vehicle": 0.5011749863624573,
+      "Ocean": 0.40966588258743286,
+      "Ship": 0.3776572346687317,
+      "Waves, surf": 0.29906344413757324,
+      "Wind": 0.28449106216430664
+    },
+    "esc50": {
+      "pouring_water": 0.7099484205245972,
+      "sea_waves": 0.40966588258743286,
+      "wind": 0.28449106216430664
+    }
+  },
+  "waterside_coastal/811450_marine_engine_seaport_Vlissingen_Netherlands_813_pm_170515_1153.flac": {
+    "audioset": {
+      "Rumble": 0.8787974715232849,
+      "Vehicle": 0.664631187915802,
+      "Field recording": 0.581726610660553,
+      "Aircraft": 0.4170484244823456,
+      "Fixed-wing aircraft, airplane": 0.3665509521961212,
+      "Car": 0.35747188329696655,
+      "Boat, Water vehicle": 0.2591964900493622
+    },
+    "esc50": {
+      "airplane": 0.4170484244823456,
+      "pouring_water": 0.2591964900493622
+    }
+  },
+  "waterside_coastal/826468_AMBNaut-ZH6_River_margin_close_perspective_people_talking_in_Portuguese_complaining_nearby_motorcycl.wav": {
+    "audioset": {
+      "Boat, Water vehicle": 0.7517448663711548,
+      "Motorboat, speedboat": 0.6957219839096069,
+      "Speech": 0.6623830199241638,
+      "Vehicle": 0.5526280999183655,
+      "Animal": 0.5220536589622498,
+      "Dog": 0.459501713514328,
+      "Bow-wow": 0.42114371061325073,
+      "Music": 0.3593837022781372,
+      "Domestic animals, pets": 0.3339059352874756,
+      "Car": 0.27892836928367615
+    },
+    "esc50": {
+      "dog": 0.459501713514328,
+      "engine": 0.6957219839096069,
+      "pouring_water": 0.7517448663711548
+    }
+  }
+}
